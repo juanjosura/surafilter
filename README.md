@@ -1,5 +1,6 @@
 <h1># surafilter</h1>
-Filtro para POE2 para personajes desde nivel 1 hasta 99
+<img src="https://github.com/user-attachments/assets/10f4ef66-a8cc-4f58-805b-d09941de784d">
+<p>Filtro para POE2 para personajes desde nivel 1 hasta 99 y se basa en el nivel del área en el que estas para mostrar unas cosas u otras.</p>
 
 <h2>#Como usarlo</h2>
 <p>Ir al perfil de Suraklin y darle a seguir al filtro.</p>
