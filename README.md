@@ -54,7 +54,7 @@
 <h2 id="objetos-standard-de-cada-mecanica">Objetos standard de cada mecánica</h2>
 <p>Los artefactos de expedición, las astillas de fisura, los fragmentos de simulacro.</p>
 <p><img src="https://github.com/user-attachments/assets/f9d1c524-e9b2-4a3f-92cf-eb62f84196e4"></p>
-<p>En el caso de los fragmentos de simulacro y las astillas de fisura, dependiendo de la cantidad de objetos en la pila que caiga tendra un color de icono diferente (1,2,5,10 y 25 objetos)</p>
+<p>En el caso de los fragmentos de simulacro y las astillas de fisura, dependiendo de la cantidad de objetos en la pila que caiga tendra un color de icono diferente. (1,2,5,10 y 25 objetos)</p>
 <p><img src="https://github.com/user-attachments/assets/ec72527d-3660-4ed0-b49c-c9d5ac31a9f9"></p>
 </br>
 <h2 id="runas-engarzables">Runas engarzables</h2>
@@ -91,7 +91,7 @@
 <h2 id="piedras-guias">Piedras guías o mapas</h2>
 <p>Se han clasificado los mapas en tres tiers agrupados por dificultad o tipo de juego.</p>
 <p><img src="https://github.com/user-attachments/assets/ad233230-945b-4a08-ae21-e9ea297dbb42"></p>
-<p>Los mapas isntilados con delirium o corruptos con 7 o más modificadores salen asi:</p>
+<p>Los mapas instilados con delirium o corruptos con 7 o más modificadores salen asi:</p>
 <p><img src="https://github.com/user-attachments/assets/cd2ce4ca-167a-4ac9-9090-8625d5f81970"></p>
 <p>La lógica para dejar de mostrar niveles de piedras guía según el mapa que estas haciendo es:</p>
 <p><img src="https://github.com/user-attachments/assets/f3f63c0f-41ac-467a-a076-2612bb42a5b5"></p>
@@ -104,9 +104,9 @@
   <li>Tier 2: las pruebas de la ascendencia de nivel de zona 75 a 79</li>
   <li>Tier 3: las pruebas de la ascendencia de nivel de zona hasta 74</li>
 </ul>
-<p>Cuando llegues a mapas, dejarás de ver las Tier 3 y cuando hagas mapas 14 o mas, ya no te caeran las Tier 2.</p>
+<p>Cuando llegues a mapas, dejarás de ver las Tier 3 y cuando hagas mapas 14 o más, ya no te caerán las Tier 2.</p>
 <h2 id="tabletas-de-atlas">Tabletas de atlas</h2>
-<p>El filtro diferencia y resalta las tablillas de mecanica con otro sonido y color.</p>
+<p>El filtro diferencia y resalta las tablillas de mecánica con otro sonido y color.</p>
 <p><img src="https://github.com/user-attachments/assets/4dc0c36c-ec92-4742-b087-a67259ecae05"></p>
 </br>
 <h2 id="objetos-unicos">Objetos únicos</h2>
@@ -126,8 +126,8 @@
   
 </ul>
 <h2 id="objetos-raros">Objetos raros</h2>
-<p>El filtro se encargará de mostrar los tiers mas acorde con el nivel de zona que estes haciendo.</p>
-<p>Si el objeto es de nivel 82, se destacara con un borde y un rayo, que ademas será naranja si ademas en de tier 1. Por tanto potencialmente, los mejores objetos seran los que salgan resaltados en naranja con rayo, aunque no quiere decir que los demas no lo puedan ser.</p>
+<p>El filtro se encargará de mostrar los tiers mas acordes con el nivel de zona que estes haciendo.</p>
+<p>Si el objeto es de nivel 82, se destacará con un borde y un rayo, que además será naranja si es de tier 1. Por tanto potencialmente, los mejores objetos seran los que salgan resaltados en naranja con rayo, aunque no quiere decir que los demas no lo puedan ser.</p>
 <p><img src="https://github.com/user-attachments/assets/d8e02d86-ea55-43cf-89be-ee3b3f446b96"></p>
 
 <h2 id="objetos-normales-y-magicos">Objetos normales y mágicos</h2>
