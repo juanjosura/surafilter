@@ -104,7 +104,6 @@
   
 </ul>
 <h2>OBJETOS NORMALES Y MÁGICOS</h2>
-
 <h3>Viales</h3>
 <p>Estos son los comunmente considerados como útiles:</p>
 <p><img src="https://github.com/user-attachments/assets/3ddf6d93-f1b8-4a70-8781-c38bf2ec8874"></p>
@@ -138,8 +137,10 @@
 <p>Se han escondido a mano las bases de los objetos tier 1 que no se pueden vender o solo valen 1 ex. Esta lista va creciendo y evolucionando con el tiempo y puede contener errores, que en ningun caso te llevaran a la ruina.</p>
 <p><img src="https://github.com/user-attachments/assets/ef7d83b2-de66-44fe-8e33-4c286bf918e5"></p>
 
-
-
+<h2>OBJETOS RAROS</h2>
+<p>El filtro se encargará de mostrar los tiers mas acorde con el nivel de zoa que estes haciendo.</p>
+<p>Si el objeto es de nivel 82, se destacara con un borde y un rayo, que ademas será naranja si ademas en de tier 1. Por tanto potencialmente, los mejores objetos seran los que salgan resaltados en naranja con rayo, aunque no quiere decir que los demas no lo puedan ser.</p>
+<p><img src="https://github.com/user-attachments/assets/d8e02d86-ea55-43cf-89be-ee3b3f446b96"></p>
 
 <p><img src=""></p>
 
