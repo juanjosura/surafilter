@@ -151,15 +151,6 @@
 <p><img src="https://github.com/user-attachments/assets/402af388-81b3-42ec-a4ba-ba40aedd16cd"></p>
 <p><img src="https://github.com/user-attachments/assets/31f9198c-34f4-4b77-8134-1cc7d414dba8"></p>
 
-
-<p>Objetos rompibles por orbes del artesano.</p>
-<p>En mapas 14 y 15 no saldrán.</p>
-<p><img src="https://github.com/user-attachments/assets/9e9d7c76-b277-4264-958f-f71c43f76f6e"></p>
-<p><img src="https://github.com/user-attachments/assets/4272fd14-8948-4b15-8fd4-71e41c57084a"></p>
-
-
-
-
 <h3>Objetos usados para Orbes de azar</h3>
 <p>Estos objetos se pueden usar para aplicarles un orbe de azar y esperar a ver si salen como un super único, o incluso se pueden vender.</p>
 <p><img src="https://github.com/user-attachments/assets/271bb760-3c04-4a9b-9a69-e835acd8b77e"></p>
