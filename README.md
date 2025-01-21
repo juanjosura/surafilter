@@ -55,19 +55,23 @@
 <h2 id="objetos-standard-de-cada-mecanica">Objetos standard de cada mecánica</h2>
 <p>Los artefactos de expedición, las astillas de fisura, los fragmentos de simulacro.</p>
 <p><img src="https://github.com/user-attachments/assets/f9d1c524-e9b2-4a3f-92cf-eb62f84196e4"></p>
-<p>En el caso de los fragmentos de simulacro y las astillas de fisura, dependiendo de la cantidad de objetos en la pila que caiga tendra un color de icono diferente. (1,2,5,10 y 25 objetos)</p>
+<p>En el caso de los fragmentos de simulacro y las astillas de fisura, el color del icono variará según la cantidad de objetos en la pila que caigan. Las categorías son: 1, 2, 5, 10 y 25 objetos.</p>
 <p><img src="https://github.com/user-attachments/assets/ec72527d-3660-4ed0-b49c-c9d5ac31a9f9"></p>
 </br>
 <h2 id="runas-engarzables">Runas engarzables</h2>
 <p><img src="https://github.com/user-attachments/assets/7935ef6b-fdce-484b-83f3-3710d0ab8c45"></p>
-<p>Las runas que no se usan, dejaran de salir cuando llegues a mapas, y son:</p>
+<p>Las runas que no se usan dejarán de aparecer una vez llegues a mapas. Estas son:</p>
 <p><img src="https://github.com/user-attachments/assets/59baa166-9b59-4ae5-9bcf-225355191f59"></p>
 </br>
 <h2 id="oro-y-pergaminos">Oro y pergaminos de identificación</h2>
-<p>El oro solo es importante cuando estas empezando el juego, por lo que el filtro esconde las pilas de oro pequeñas y te resalta las mas grandes. El oro aunque se esconda, no desaparece, lo vas a coger igualmente cuando pases por encima, pero no te vas a distraer por un montoncito de 200 de oro. Lo iras cogiendo sin darte cuenta.</p>
-<p>En campaña se escondera todo lo que sea menor de 250, en mapas de 500. Se resaltará con borde e icono, las pilas de al menos 2500.</p>
+<p>El oro solo es relevante al comienzo del juego, por lo que el filtro oculta las pilas pequeñas y resalta las más grandes. Aunque el oro esté oculto, no desaparece; lo recogerás automáticamente al pasar por encima, evitando distracciones por montones pequeños, como 200 de oro, que recogerás sin darte cuenta.</p>
+<ul>
+    <li>En campaña: se ocultan todas las pilas menores a 250.</li>
+    <li>En mapas: se ocultan todas las pilas menores a 500.</li>
+    <li>Resaltado especial: las pilas de al menos 2500 se destacarán con un borde y un icono.</li>
+</ul>
 <p><img src="https://github.com/user-attachments/assets/638438ea-a009-4152-8d46-dc5baeb4cba7"></p>
-<p>Los pergaminos de identificación dejan de salir cuando llegas a mapas</p>
+<p>Los pergaminos de identificación dejarán de aparecer una vez llegues a mapas.</p>
 </br>
 <h2 id="joyas">Joyas</h2>
 <p><img src="https://github.com/user-attachments/assets/987e2058-9f40-449e-bebe-ae8861b023d0"></p>
