@@ -151,6 +151,9 @@
 <p><img src="https://github.com/user-attachments/assets/402af388-81b3-42ec-a4ba-ba40aedd16cd"></p>
 <p>Objetos rompibles por orbes del artesano.</p>
 <p><img src="https://github.com/user-attachments/assets/ef1e5e48-8c99-461c-a72e-7ab54354b8ee"></p>
+<p><img src="https://github.com/user-attachments/assets/5c18ca2d-e5dc-426b-9094-cb5559116791"></p>
+
+
 
 <h3>Objetos usados para Orbes de azar</h3>
 <p>Estos objetos se pueden usar para aplicarles un orbe de azar y esperar a ver si salen como un super único, o incluso se pueden vender.</p>
