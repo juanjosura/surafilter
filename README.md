@@ -33,7 +33,7 @@
 <p>Ir al perfil de Suraklin y darle a seguir al filtro: <a href="https://www.pathofexile.com/account/view-profile/suraklin-6011/item-filters">Perfil de Suraklin</a></p>
 
 <p><img src="https://github.com/user-attachments/assets/b368ca80-ac73-4470-9b45-7c4bbcdb1ea1"></p>
-<p>Ir al juego, a las opciones y seleccionar el filtro. Cada vez que entres al juego se actualizará con la última version del filtro disponible.</p>
+<p>Para usar el filtro, entra al juego, ve a las opciones y selecciona el filtro desde el menú correspondiente. Cada vez que inicies el juego, el filtro se actualizará automáticamente a la última versión disponible.</p>
 <p><img src="https://github.com/user-attachments/assets/a773fbfc-252a-4fb3-8073-27cd5cccf8ee"></p>
 </br>
  <h2 id="niveles-de-valor-standard">Niveles de valor standard</h2>
@@ -45,11 +45,11 @@
   <li>Tier B: Color naranja sobre fondo blanco. Objetos generalmente de 3 exaltados o más.</li>
   <li>Tier C: Color amarillo sobre fondo blanco. Objetos generalmente de alrededor de 1 exaltado.</li>
   <li>Tier D: Color del juego pero con borde. Objetos de poco valor pero usables</li>
-  <li>Tier E: Color del juego. Objetos de valor infimo.</li>
+  <li>Tier E: Color del juego. Objetos de valor ínfimo.</li>
 </ul>
 </br>
     <h2 id="objetos-monetarios-personalizados">Objetos monetarios personalizados</h2>
-<p>Estos objetos tienen su propio color y sonido cuando caen. Usan las voces del juego para darle mas sensación de que es parte del juego. Tambien tienen diferente tamaño según su valor.<p>
+<p>Estos objetos tienen su propio color y sonido cuando caen. Usan las voces del juego para darle mas sensación de que es parte del juego. Además, tienen diferentes tamaños en el suelo según su valor.<p>
 <p><img src="https://github.com/user-attachments/assets/b60219d5-2fa8-4afd-8bf0-ef78834e9fe5"></p>
 </br>
 <h2 id="objetos-standard-de-cada-mecanica">Objetos standard de cada mecánica</h2>
