@@ -38,11 +38,25 @@
 <p>Las runas que no se usan, dejaran de salir cuando llegues a mapas, y son:</p>
 <p><img src="https://github.com/user-attachments/assets/59baa166-9b59-4ae5-9bcf-225355191f59"></p>
 </br>
-<h2>Oro y mpergaminos de identificación</h2>
+<h2>Oro y pergaminos de identificación</h2>
 <p>El oro solo es importante cuando estas empezando el juego, por lo que el filtro esconde las pilas de oro pequeñas y te resalta las mas grandes. EL oro aunque se esconda, no desaparece, lo vas a coger igualmente cuando pases por encima, pero no te vas a distraer por un montoncito de 200 de oro. Lo iras cogiendo sin darte cuenta.</p>
 <p>En campaña se escondera todo lo que sea menor de 250, en mapas de 500. Se resaltará con borde e icono, las pilas de al menos 2500.</p>
 <p><img src="https://github.com/user-attachments/assets/638438ea-a009-4152-8d46-dc5baeb4cba7"></p>
 <p>Los pergaminos de identificación dejan de salir cuando llegas a mapas</p>
+</br>
+<h2>Gemas de habilidad</h2>
+<p><img src="https://github.com/user-attachments/assets/04c2ae36-993b-40cb-87c6-903cee2c7d84"></p>
+<p>En campaña todas las gemas tienen un sonido de drop.</p>
+<p>Las gemas de soporte dejan de salir en mapas T10.</p>
+<p>Las gemas de habilidad de nivel 18 e inferior dejan de salir en mapas 13</p>
+<p>Las gemas de espíritu de nivel 18 e inferior dejan de salir en mapas 14</p>
+<p>El filtro destaca las gemas de habilidad y espíritu de nivel 20 como un tier S.</p>
+<p><img src="https://github.com/user-attachments/assets/f7a12b47-1d7b-45d4-9aa3-279bc0f33753"></p>
+
+
+<p><img src=""></p>
+
+
 
 
 
