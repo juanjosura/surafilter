@@ -58,13 +58,15 @@
 <p><img src="https://github.com/user-attachments/assets/c4390ca6-4e7a-4b0c-9d02-7f85c7b05bb6"></p>
 <h2>Gemas de habilidad</h2>
 <p><img src="https://github.com/user-attachments/assets/04c2ae36-993b-40cb-87c6-903cee2c7d84"></p>
-<p>En campaña todas las gemas tienen un sonido de drop. Siendo diferente el de espíritu para resaltarlas.</p>
-<p>Las gemas de soporte dejan de salir en mapas T10.</p>
-<p>Las gemas de habilidad de nivel 18 e inferior dejan de salir en mapas 13 y no tienen sonido en mapas.</p>
-<p>Las gemas de espíritu de nivel 18 e inferior dejan de salir en mapas 14 y no tienen sonido en mapas.</p>
-<p>El filtro destaca las gemas de habilidad y espíritu de nivel 20 como un tier S.</p>
-<p><img src="https://github.com/user-attachments/assets/f7a12b47-1d7b-45d4-9aa3-279bc0f33753"></p>
-<p>El filtro destaca las gemas de espíritu de nivel 19 con sonido y rayo frente a las de habilidad que solo tienen sonido y es diferente.</p>
+<ul>
+<li>En campaña todas las gemas tienen un sonido de drop. Siendo diferente el de espíritu para resaltarlas.</li>
+<li>Las gemas de soporte dejan de salir en mapas T10.</li>
+<li>Las gemas de habilidad de nivel 18 e inferior dejan de salir en mapas 13 y no tienen sonido en mapas.</li>
+<li>Las gemas de espíritu de nivel 18 e inferior dejan de salir en mapas 14 y no tienen sonido en mapas.</li>
+<li>El filtro destaca las gemas de habilidad y espíritu de nivel 20 como un tier S.</li>
+<li><img src="https://github.com/user-attachments/assets/f7a12b47-1d7b-45d4-9aa3-279bc0f33753"></li>
+<li>El filtro destaca las gemas de espíritu de nivel 19 con sonido y rayo frente a las de habilidad que solo tienen sonido y es diferente.</li>
+</ul>
 </br>
 <h2>Piedras guías o mapas</h2>
 <p>Se han clasificado los mapas en tres tiers agrupados por dificultad o tipo de juego.</p>
