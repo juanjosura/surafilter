@@ -91,14 +91,14 @@
 <li>Las gemas de habilidad y espíritu de nivel 20 son destacadas como un tier S en el filtro.</li>
 <li>El filtro destaca las gemas de nivel 19 y distingue las gemas de espíritu de nivel 19 con sonido y rayo, frente a las de habilidad que solo tienen sonido, siendo este sonido diferente.</li>
 </ul>
-<img src="https://github.com/user-attachments/assets/f7a12b47-1d7b-45d4-9aa3-279bc0f33753">
+<img src="[https://github.com/user-attachments/assets/f7a12b47-1d7b-45d4-9aa3-279bc0f33753](https://github.com/user-attachments/assets/12f73452-e718-47e3-8367-e2cf5b91cded)">
 </br>
 <h2 id="piedras-guias">Piedras guías o mapas</h2>
-<p>Se han clasificado los mapas en tres tiers agrupados por dificultad o tipo de juego.</p>
+<p>Los mapas se han clasificado en tres tiers, agrupados por dificultad o tipo de juego.</p>
 <p><img src="https://github.com/user-attachments/assets/ad233230-945b-4a08-ae21-e9ea297dbb42"></p>
-<p>Los mapas instilados con delirium o corruptos con 7 o más modificadores salen asi:</p>
+<p>Los mapas instilados con Delirium o corruptos con 7 o más modificadores saldrán de la siguiente manera: </p>
 <p><img src="https://github.com/user-attachments/assets/cd2ce4ca-167a-4ac9-9090-8625d5f81970"></p>
-<p>La lógica para dejar de mostrar niveles de piedras guía según el mapa que estas haciendo es:</p>
+<p>La lógica para dejar de mostrar los niveles de piedras guía según el mapa que estás haciendo es la siguiente: </p>
 <p><img src="https://github.com/user-attachments/assets/f3f63c0f-41ac-467a-a076-2612bb42a5b5"></p>
 </br>
 <h2 id="llaves-ascendencia">Llaves de prueba de ascendencia</h2>
@@ -109,13 +109,13 @@
   <li>Tier 2: las pruebas de la ascendencia de nivel de zona 75 a 79</li>
   <li>Tier 3: las pruebas de la ascendencia de nivel de zona hasta 74</li>
 </ul>
-<p>Cuando llegues a mapas, dejarás de ver las Tier 3 y cuando hagas mapas 14 o más, ya no te caerán las Tier 2.</p>
+<p>Cuando llegues a mapas, dejarás de ver las llaves de Tier 3, y cuando hagas mapas T14 o más, ya no te caerán las llaves de Tier 2.</p>
 <h2 id="tabletas-de-atlas">Tabletas de atlas</h2>
 <p>El filtro diferencia y resalta las tablillas de mecánica con otro sonido y color.</p>
 <p><img src="https://github.com/user-attachments/assets/4dc0c36c-ec92-4742-b087-a67259ecae05"></p>
 </br>
 <h2 id="objetos-unicos">Objetos únicos</h2>
-<p>El filtro no puede saber que objeto es ni su valor. Lo que si se puede saber es la base del objeto y compararla con los objetos únicos que tienen esa base. En algunos casos solo hay un objeto único con esa base y por tanto se puede saber cual es, y en otros esa base pueden ser múltiples objetos únicos.</p>
+<p>El filtro no puede identificar el objeto ni su valor exacto. Lo que sí puede hacer es determinar la base del objeto y compararla con los objetos únicos que comparten esa base. En algunos casos, solo existe un objeto único con esa base, por lo que se puede identificar fácilmente, mientras que en otros casos, esa base puede corresponder a varios objetos únicos.</p>
 <p>Los tiers de valor son orientativos.</p>
 <p>Los objetos multi base tienen iconos y rayos azules.</p>
 <p><img src="https://github.com/user-attachments/assets/bc4f9306-8783-42fa-8f98-b4b4491952c8"></p>
@@ -131,8 +131,8 @@
   
 </ul>
 <h2 id="objetos-raros">Objetos raros</h2>
-<p>El filtro se encargará de mostrar los tiers mas acordes con el nivel de zona que estes haciendo.</p>
-<p>Si el objeto es de nivel 82, se destacará con un borde y un rayo, que además será naranja si es de tier 1. Por tanto potencialmente, los mejores objetos seran los que salgan resaltados en naranja con rayo, aunque no quiere decir que los demas no lo puedan ser.</p>
+<p>El filtro se encargará de mostrar los tiers más acordes con el nivel de zona que estés haciendo.</p>
+<p>Si el objeto es de nivel 82, se destacará con un borde y un rayo, que será naranja si es de tier 1. Por lo tanto, los mejores objetos potencialmente serán los que salgan resaltados en naranja con rayo, aunque no significa que los demás no puedan ser valiosos.</p>
 <p><img src="https://github.com/user-attachments/assets/d8e02d86-ea55-43cf-89be-ee3b3f446b96"></p>
 
 <h2 id="objetos-normales-y-magicos">Objetos normales y mágicos</h2>
@@ -141,32 +141,32 @@
 <p><img src="https://github.com/user-attachments/assets/3ddf6d93-f1b8-4a70-8781-c38bf2ec8874"></p>
 <p>En campaña se ven todos los tipos, siendo los útiles destacados con un borde.</p>
 <p><img src="https://github.com/user-attachments/assets/88719adb-451c-4340-971a-596e9c78ad4d"></p>
-<p>En mapas ya solo se muestran los utiles destacando con icono y rayo si teienen calidad y si son con calidad 18 o más o nivel 83</p>
+<p>En mapas, solo se muestran los objetos útiles, destacando con un icono y rayo aquellos que tienen calidad, o si la calidad es 18 o más, o si son de nivel 83.</p>
 <p><img src="https://github.com/user-attachments/assets/71e7dd6a-c5d1-4f53-994d-63e50b8cb72f"></p>
 
-<h3>Objetos rompibles en la mesa de reciclaje</h3>
-<p>Objetos rompibles por objetos de calidad de frasco, arma o armadura. En mapas solo saldran los objetos que se puedan romper y den al menos 2 items de calidad en armas y armaduras o 1 y 2 en frascos.</p>
+<h3>Objetos rompibles por objetos de calidad de frasco, arma o armadura:</h3>
+<p>En mapas, solo saldrán los objetos que se puedan romper y que den al menos 2 ítems de calidad en armas y armaduras, o 1 ítem de calidad en frascos.</p>
 <p><img src="https://github.com/user-attachments/assets/402af388-81b3-42ec-a4ba-ba40aedd16cd"></p>
 <p>Objetos rompibles por orbes del artesano.</p>
 <p><img src="https://github.com/user-attachments/assets/ef1e5e48-8c99-461c-a72e-7ab54354b8ee"></p>
 
 <h3>Objetos usados para Orbes de azar</h3>
-<p>Estos objetos se pueden usar para tirarles un orbe de azar y rezar a ver si sale un super único o incluso se pueden vender.</p>
+<p>Estos objetos se pueden usar para aplicarles un orbe de azar y esperar a ver si salen como un super único, o incluso se pueden vender.</p>
 <p><img src="https://github.com/user-attachments/assets/271bb760-3c04-4a9b-9a69-e835acd8b77e"></p>
 
 <h3>Joyeria y cinturones</h3>
-<p>Los objetos blancos saldran destacados con un borde marron y rayo si son de nivel 82 y tier 1.</p>
+<p>Los objetos blancos saldrán destacados con un borde marrón y rayo si son de nivel 82 y tier 1.</p>
 <p><img src="https://github.com/user-attachments/assets/f60779bf-e9c0-4a94-a0e4-0c654afb7bf9"></p>
-<p>Solo saldra joyeria y cinturones blancos si son objetos tier 1.</p>
+<p>Solo saldrán joyería y cinturones blancos si son objetos de tier 1.</p>
 <p><img src="https://github.com/user-attachments/assets/88e77cd1-0c9d-45a1-8623-59be41ffe96d"></p>
-<p>Los anillos de brecha saldran con su propio estilo destacando los de nivel 82 con un borde.</p>
+<p>Los anillos de brecha saldrán con su propio estilo, destacando los de nivel 82 con un borde.</p>
 <p><img src="https://github.com/user-attachments/assets/2a7c2d6d-95c2-48d7-9080-1f83813bf1a1"></p>
 
 <h3>Armas y armaduras</h3>
-<p>En mapas solo saldran objetos blancos de tier 1 o de tier 2 si son de nivel 82</p>
-<p>Los objetos de nivel 82 se destacan con un borde y un rayo, que ademas sera naranja si es de tier 1.</p>
+<p>En mapas, solo saldrán objetos blancos de tier 1 o de tier 2 si son de nivel 82.</p>
+<p>Los objetos de nivel 82 se destacan con un borde y un rayo, que además será naranja si es de tier 1.</p>
 <p><img src="https://github.com/user-attachments/assets/b7b006e7-0bc9-42c9-8f78-9bf49ae03f13"></p>
-<p>Se han escondido a mano las bases de los objetos tier 1 que no se pueden vender o solo valen 1 ex. Esta lista va creciendo y evolucionando con el tiempo y puede contener errores, que en ningun caso te llevaran a la ruina.</p>
+<p>Se han escondido manualmente las bases de los objetos tier 1 que no se pueden vender o solo valen 1 ex. Esta lista va creciendo y evolucionando con el tiempo y puede contener errores, pero en ningún caso estos errores te llevarán a la ruina.</p>
 <p><img src="https://github.com/user-attachments/assets/ef7d83b2-de66-44fe-8e33-4c286bf918e5"></p>
 
 
