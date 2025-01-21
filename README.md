@@ -86,7 +86,23 @@
 <p>El filtro diferencia y resalta las tablillas de mecanica con otro sonido y color.</p>
 <p><img src="https://github.com/user-attachments/assets/4dc0c36c-ec92-4742-b087-a67259ecae05"></p>
 </br>
-<h2>OBJETOS</h2>
+<h2>OBJETOS ÚNICOS</h2>
+<p>El filtro no puede saber que objeto es ni su valor. Lo que si se puede saber es la base del objeto y compararla con los objetos únicos que tienen esa base. En algunos casos solo hay un objeto único con esa base y por tanto se puede saber cual es, y en otros esa base pueden ser múltiples objetos únicos.</p>
+<p>Los tiers de valor son orientativos.</p>
+<p>Los objetos multi base tienen iconos y rayos azules.</p>
+<p><img src="https://github.com/user-attachments/assets/bc4f9306-8783-42fa-8f98-b4b4491952c8"></p>
+
+<p>Sabiendo esto, podemos catalogar los únicos asi: </p>
+<ul>
+  <li>TIER S: Objetos que suelen ser muy valiosos.</li>
+  <li>TIER A: Objetos que son vendibles y pueden ser muy valiosos si tienen los stats correctos.</li>
+  <li>TIER B y C: Objetos que son malos pero pueden ser valiosos si tienen los stats correctos.</li>
+  <li>TIER D: Objetos que son malos y solo valen para romperlos.</li>
+  <li>MULTIBASE: Objetos que hay dos versiones con la misma base, una no vale nada y la otra si. Suerte.</li>
+  <li>MULTIBASE de JEFE: Objetos que hay dos versiones con la misma base, una no vale nada y la otra si, si te la tira un jefe.</li>
+  
+</ul>
+<h2>OBJETOS NORMALES</h2>
 <h3>Viales</h3>
 <p>Estos son los comunmente considerados como útiles:</p>
 <p><img src="https://github.com/user-attachments/assets/3ddf6d93-f1b8-4a70-8781-c38bf2ec8874"></p>
@@ -95,12 +111,16 @@
 <p>En mapas ya solo se muestran los utiles destacando con icono y rayo si teienen calidad y si son con calidad 18 o más o nivel 83</p>
 <p><img src="https://github.com/user-attachments/assets/71e7dd6a-c5d1-4f53-994d-63e50b8cb72f"></p>
 
-
 <h3>Objetos rompibles en la mesa de reciclaje</h3>
 <p>Objetos rompibles por objetos de calidad de frasco, arma o armadura. En mapas solo saldran los objetos que se puedan romper y den al menos 2 items de calidad en armas y armaduras o 1 y 2 en frascos.</p>
 <p><img src="https://github.com/user-attachments/assets/402af388-81b3-42ec-a4ba-ba40aedd16cd"></p>
 <p>Objetos rompibles por orbes del artesano.</p>
 <p><img src="https://github.com/user-attachments/assets/ef1e5e48-8c99-461c-a72e-7ab54354b8ee"></p>
+
+<h3>Objetos usados para Orbes de azar</h3>
+<p>Estos objetos se pueden usar para tirarles un orbe de azar y rezar a ver si sale un super único o incluso se pueden vender.</p>
+<p><img src="https://github.com/user-attachments/assets/271bb760-3c04-4a9b-9a69-e835acd8b77e"></p>
+
 
 
 <p><img src=""></p>
