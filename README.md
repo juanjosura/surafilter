@@ -87,11 +87,19 @@
 <p><img src="https://github.com/user-attachments/assets/4dc0c36c-ec92-4742-b087-a67259ecae05"></p>
 </br>
 <h2>OBJETOS</h2>
+<h3>Viales</h3>
+<p>Estos son los comunmente considerados como útiles:</p>
+<p><img src="https://github.com/user-attachments/assets/3ddf6d93-f1b8-4a70-8781-c38bf2ec8874"></p>
+<p>En campaña se ven todos los tipos, siendo los útiles destacados con un borde.</p>
+<p><img src="https://github.com/user-attachments/assets/88719adb-451c-4340-971a-596e9c78ad4d"></p>
+<p>En mapas ya solo se muestran los utiles destacando con icono y rayo si teienen calidad y si son con calidad 18 o más o nivel 83</p>
+<p><img src="https://github.com/user-attachments/assets/71e7dd6a-c5d1-4f53-994d-63e50b8cb72f"></p>
+
+
 <h3>Objetos rompibles en la mesa de reciclaje</h3>
-<p>Objetos rompibles por objetos de calidad de frasco, arma o armadura.</p>
+<p>Objetos rompibles por objetos de calidad de frasco, arma o armadura. En mapas solo saldran los objetos que se puedan romper y den al menos 2 items de calidad en armas y armaduras o 1 y 2 en frascos.</p>
 <p><img src="https://github.com/user-attachments/assets/402af388-81b3-42ec-a4ba-ba40aedd16cd"></p>
-<p>Solo saldran los objetos que se puedan romper y den al menos 2 items de calidad en armas y armaduras o 1 y 2 en frascos.</p>
-<p>Objetos rompibles por orbes del aretesano.</p>
+<p>Objetos rompibles por orbes del artesano.</p>
 <p><img src="https://github.com/user-attachments/assets/ef1e5e48-8c99-461c-a72e-7ab54354b8ee"></p>
 
 
