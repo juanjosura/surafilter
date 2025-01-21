@@ -1,4 +1,4 @@
-<h1>Filtro dinámico para POE2 Surafilter v1</h1>
+<h1> Surafilter v1 - Filtro dinámico para POE2</h1>
 <p><img src="https://github.com/user-attachments/assets/10f4ef66-a8cc-4f58-805b-d09941de784d"></p>
 <p>Filtro para POE2 para personajes desde nivel 1 hasta 99 y se basa en el nivel del área en el que estas para mostrar unas cosas u otras.</p>
 <p>Muy importante, los filtros en POE2 no son perfectos y puede haber errores, ademas de que puede que mañana salga una build y una cosa cambie de valor de repente y cambie de tier de valor. Estos tieres de valor son orientativos, comprobar siempre el valor del objeto en la página de trade antes de venderlo. https://www.pathofexile.com/trade2/search/poe2/Standard </p>
