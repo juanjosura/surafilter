@@ -146,14 +146,14 @@
 <p>En mapas, solo se muestran los objetos útiles, destacando con un icono y rayo aquellos que tienen calidad, o si la calidad es 18 o más, o si son de nivel 83.</p>
 <p><img src="https://github.com/user-attachments/assets/71e7dd6a-c5d1-4f53-994d-63e50b8cb72f"></p>
 
-<h3>Objetos rompibles por objetos de calidad de frasco, arma o armadura:</h3>
-<p>En mapas 15 no saldran y en el resto de mapas, solo saldrán los objetos que se puedan romper y que den al menos 2 ítems de calidad en armas y armaduras, o 1 ítem de calidad en frascos.</p>
+<h3>Objetos rompibles por objetos de calidad:</h3>
+<p>En mapas 14 y 15 no saldran y en el resto de mapas, solo saldrán los objetos que se puedan romper y que den al menos 2 ítems de calidad en armas y armaduras, o 1 ítem de calidad en frascos.</p>
 <p><img src="https://github.com/user-attachments/assets/402af388-81b3-42ec-a4ba-ba40aedd16cd"></p>
 <p><img src="https://github.com/user-attachments/assets/31f9198c-34f4-4b77-8134-1cc7d414dba8"></p>
 
 
 <p>Objetos rompibles por orbes del artesano.</p>
-<p>En mapas 15 no saldran</p>
+<p>En mapas 14 y 15 no saldrán.</p>
 <p><img src="https://github.com/user-attachments/assets/9e9d7c76-b277-4264-958f-f71c43f76f6e"></p>
 <p><img src="https://github.com/user-attachments/assets/4272fd14-8948-4b15-8fd4-71e41c57084a"></p>
 
