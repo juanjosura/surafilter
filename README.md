@@ -4,6 +4,7 @@
 <p>Muy importante, los filtros en POE2 no son perfectos y puede haber errores, ademas de que puede que mañana salga una build y una cosa cambie de valor de repente y cambie de tier de valor. Estos tieres de valor son orientativos, comprobar siempre el valor del objeto en la página de trade antes de venderlo. https://www.pathofexile.com/trade2/search/poe2/Standard </p>
 <p>La idea del filtro es dividir todo los objetos vendibles, que no sean joyeria, armas y armaduras en 6 niveles de valor. Cada nivel de valor tiene su propio sonido, colores, iconos en el mapa y rayito para que te caiga lo que te caiga, se te clasifique en ese tier y sepas mas o menos el valor del drop.</p>
 <p>El sistema de sonidos de drop tambien es consecuente con los objetos. Ademas lo util o valioso se destaca con un rayo saliendo del objeto.</p>
+<p>Los objetos de armadura, armas, joyeria y cinturones se clasifican en TIERS (T1,T2,T3) según la base del objeto. Hay algunas bases que son mas valiosas que otras y el filtro te mostrará en cada nivel lo mas adecuado destacando siempre los objetos T1 o de nivel máximo(item lvl 82).</p>
 <p>La filosofia del filtro es que solo por el color, el sonido o el rayo que tenga o no, sepas si un objeto puede ser util o valioso.</p>
 </br>
 <h2>Como usarlo</h2>
@@ -102,7 +103,8 @@
   <li>MULTIBASE de JEFE: Objetos que hay dos versiones con la misma base, una no vale nada y la otra si, si te la tira un jefe.</li>
   
 </ul>
-<h2>OBJETOS NORMALES</h2>
+<h2>OBJETOS NORMALES Y MÁGICOS</h2>
+
 <h3>Viales</h3>
 <p>Estos son los comunmente considerados como útiles:</p>
 <p><img src="https://github.com/user-attachments/assets/3ddf6d93-f1b8-4a70-8781-c38bf2ec8874"></p>
@@ -121,7 +123,9 @@
 <p>Estos objetos se pueden usar para tirarles un orbe de azar y rezar a ver si sale un super único o incluso se pueden vender.</p>
 <p><img src="https://github.com/user-attachments/assets/271bb760-3c04-4a9b-9a69-e835acd8b77e"></p>
 
-
+<h3>Joyeria y cinturones</h3>
+Los objetos blancos saldran destacados con un borde marron y rayo si son de nivel 82 y tier 1.
+Solo saldra joyeria y cinturones blancos si son objetos tier 1.
 
 <p><img src=""></p>
 
