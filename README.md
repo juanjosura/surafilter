@@ -1,12 +1,12 @@
 <h1> Surafilter v1 - Filtro dinámico para POE2</h1>
 <p><img src="https://github.com/user-attachments/assets/10f4ef66-a8cc-4f58-805b-d09941de784d"></p>
-<p>Filtro para POE2 para personajes desde nivel 1 hasta 99 y se basa en el nivel del área en el que estas para mostrar unas cosas u otras. Esta creado usando la herramienta Filterblade de Neversink</p>
-<p>Muy importante, los filtros en POE2 no son perfectos y puede haber errores, ademas de que puede que mañana salga una build y una cosa cambie de valor de repente y cambie de tier de valor. Estos tiers de valor son orientativos, comprobar siempre el valor del objeto en la página de trade antes de venderlo. https://www.pathofexile.com/trade2/search/poe2/Standard </p>
-<p>La idea del filtro es dividir todo los objetos vendibles, que no sean joyeria, armas y armaduras en 6 niveles de valor. Cada nivel de valor tiene su propio sonido, colores, iconos en el mapa y rayito para que te caiga lo que te caiga, se te clasifique en ese tier y sepas mas o menos el valor del drop.</p>
-<p>El sistema de sonidos de drop tambien es consecuente con los objetos. Ademas lo util o valioso se destaca con un rayo saliendo del objeto.</p>
+<p>Este filtro está diseñado para personajes desde el nivel 1 hasta el 99 y se basa en el nivel del área en la que te encuentras para mostrar distintos elementos según corresponda. Ha sido creado utilizando la herramienta FilterBlade de NeverSink.</p>
+<p>Es importante destacar que los filtros en POE2 no son perfectos y pueden contener errores. Además, es posible que, con la aparición de una nueva build, el valor de ciertos objetos cambie de forma repentina, alterando su tier de valor. Estos tiers son orientativos; por lo tanto, siempre verifica el valor del objeto en la página de comercio antes de venderlo: https://www.pathofexile.com/trade2/search/poe2/Standard </p>
+<p>El filtro divide todos los objetos vendibles, excluyendo joyería, armas y armaduras, en seis niveles de valor. Cada nivel tiene su propio sonido, color, icono en el mapa y efecto visual (rayo) para que, independientemente del objeto que caiga, puedas clasificarlo rápidamente en un tier y saber su valor aproximado.</p>
+<p>Los sonidos asociados a los drops son consistentes con la importancia del objeto. Los objetos útiles o valiosos se destacan con un rayo que sale directamente de ellos.</p>
 <p>Los objetos de armadura, armas, joyeria y cinturones se clasifican en TIERS (T1,T2,T3) según la base del objeto. Hay algunas bases que son mas valiosas que otras y el filtro te mostrará en cada nivel lo mas adecuado destacando siempre los objetos T1 o de nivel máximo(item lvl 82).</p>
-<p>La filosofia del filtro es que solo por el color, el sonido o el rayo que tenga o no, sepas si un objeto puede ser util o valioso.</p>
-<p>El icono que sale en las capturas siguientes, es el icono con el que saldrá el objeto en el juego en el mini mapa, no sale en el nombre del objeto.</p>
+<p>El objetivo del filtro es que, mediante el color, el sonido o el efecto visual, puedas identificar de forma intuitiva si un objeto es útil o valioso.</p>
+<p>El icono que aparece en las capturas adjuntas es el que saldrá en el mini mapa dentro del juego. Este icono no se mostrará en el nombre del objeto.</p>
 </br>
     <div class="indice">
         <h2>Índice</h2>
