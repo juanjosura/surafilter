@@ -6,6 +6,7 @@
 <p>El sistema de sonidos de drop tambien es consecuente con los objetos. Ademas lo util o valioso se destaca con un rayo saliendo del objeto.</p>
 <p>Los objetos de armadura, armas, joyeria y cinturones se clasifican en TIERS (T1,T2,T3) según la base del objeto. Hay algunas bases que son mas valiosas que otras y el filtro te mostrará en cada nivel lo mas adecuado destacando siempre los objetos T1 o de nivel máximo(item lvl 82).</p>
 <p>La filosofia del filtro es que solo por el color, el sonido o el rayo que tenga o no, sepas si un objeto puede ser util o valioso.</p>
+<p>El icono que sale en las capturas siguientes, es el icono con el que saldrá el objeto en el juego en el mini mapa, no sale en el nombre del objeto.</p>
 </br>
     <div class="indice">
         <h2>Índice</h2>
@@ -35,7 +36,6 @@
 <p><img src="https://github.com/user-attachments/assets/a773fbfc-252a-4fb3-8073-27cd5cccf8ee"></p>
 </br>
  <h2 id="niveles-de-valor-standard">Niveles de valor standard</h2>
-<p>El icono que sale, es el icono con el que saldrá el objeto en el juego en el mapa.</p>
 <p>Estos niveles engloban objetos monetarios normales y de mecánica como las instilaciones, los catalizadores, augurios, esencias, núcleos del alma...</p>
 <p><img src="https://github.com/user-attachments/assets/260409a5-98d5-4630-9834-725f1ea1579d"></p>
 <ul>
