@@ -153,8 +153,8 @@
 
 
 <p>Objetos rompibles por orbes del artesano.</p>
-<p><img src="https://github.com/user-attachments/assets/4272fd14-8948-4b15-8fd4-71e41c57084a"></p>
 <p><img src="https://github.com/user-attachments/assets/9e9d7c76-b277-4264-958f-f71c43f76f6e"></p>
+<p><img src="https://github.com/user-attachments/assets/4272fd14-8948-4b15-8fd4-71e41c57084a"></p>
 
 
 
