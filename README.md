@@ -133,7 +133,8 @@
 <h2 id="objetos-raros">Objetos raros</h2>
 <p>El filtro se encargará de mostrar los tiers más acordes con el nivel de zona que estés haciendo.</p>
 <p>Si el objeto es de nivel 82, se destacará con un borde y un rayo, que será naranja si es de tier 1. Por lo tanto, los mejores objetos potencialmente serán los que salgan resaltados en naranja con rayo, aunque no significa que los demás no puedan ser valiosos.</p>
-<p>Si el objheto es de T1, tendfra un rayo temporal que desaparecerea en medio segundo.</p>
+<p>Si el objeto es de T1, se destacará brevemente con un rayo temporal que desaparecerá en medio segundo.</p>
+<p>La joyería y lso cinturones siempre tienen un icono en el minimapa.</p>
 <p><img src="https://github.com/user-attachments/assets/d8e02d86-ea55-43cf-89be-ee3b3f446b96"></p>
 
 <h2 id="objetos-normales-y-magicos">Objetos normales y mágicos</h2>
