@@ -85,6 +85,15 @@
 <h2>Tabletas de atlas</h2>
 <p>El filtro diferencia y resalta las tablillas de mecanica con otro sonido y color.</p>
 <p><img src="https://github.com/user-attachments/assets/4dc0c36c-ec92-4742-b087-a67259ecae05"></p>
+</br>
+<h2>OBJETOS</h2>
+<h3>Objetos rompibles en la mesa de reciclaje</h3>
+<p>Objetos rompibles por objetos de calidad de frasco, arma o armadura.</p>
+<p><img src="https://github.com/user-attachments/assets/402af388-81b3-42ec-a4ba-ba40aedd16cd"></p>
+<p>Solo saldran los objetos que se puedan romper y den al menos 2 items de calidad en armas y armaduras o 1 y 2 en frascos.</p>
+<p>Objetos rompibles por orbes del aretesano.</p>
+<p><img src="https://github.com/user-attachments/assets/ef1e5e48-8c99-461c-a72e-7ab54354b8ee"></p>
+
 
 <p><img src=""></p>
 
