@@ -3,6 +3,8 @@
 <p>Filtro para POE2 para personajes desde nivel 1 hasta 99 y se basa en el nivel del área en el que estas para mostrar unas cosas u otras. Esta creado usando la herramienta Filterblade de Neversink</p>
 <p>Muy importante, los filtros en POE2 no son perfectos y puede haber errores, ademas de que puede que mañana salga una build y una cosa cambie de valor de repente y cambie de tier de valor. Estos tieres de valor son orientativos, comprobar siempre el valor del objeto en la página de trade antes de venderlo. https://www.pathofexile.com/trade2/search/poe2/Standard </p>
 <p>La idea del filtro es dividir todo los objetos vendibles, que no sean joyeria, armas y armaduras en 6 niveles de valor. Cada nivel de valor tiene su propio sonido, colores, iconos en el mapa y rayito para que te ciaga lo que te caiga, se te clasifique en ese tier y sepas mas o menos el valor del drop.</p>
+<p>El sistema de sonidos de drop tambien es consecuente con los objetos. Ademas lo util o valioso se destaca con un rayo saliendo del objeto.</p>
+<p>La filosofia del filtro es que solo por el color, el sonido o el rayo que tenga o no, sepas si un objeto puede ser util o valioso.</p>
 </br>
 <h2>Como usarlo</h2>
 <p>Ir al perfil de Suraklin y darle a seguir al filtro.</p>
