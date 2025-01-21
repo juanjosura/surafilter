@@ -46,6 +46,15 @@
 <p><img src="https://github.com/user-attachments/assets/638438ea-a009-4152-8d46-dc5baeb4cba7"></p>
 <p>Los pergaminos de identificación dejan de salir cuando llegas a mapas</p>
 </br>
+</br>
+<h2>Joyas</h2>
+<p><img src="https://github.com/user-attachments/assets/987e2058-9f40-449e-bebe-ae8861b023d0"></p>
+<p>Las joyas amarillas, corruptas o las especiales Time Lost, tendran icono en el suelo y rayito.</p>
+</br>
+<h2>Objetos de quest</h2>
+<p><img src="https://github.com/user-attachments/assets/c1f6cace-e7a5-4fd1-815f-714c0977510f"></p>
+<h2>Reliquias</h2>
+<p><img src="https://github.com/user-attachments/assets/c4390ca6-4e7a-4b0c-9d02-7f85c7b05bb6"></p>
 <h2>Gemas de habilidad</h2>
 <p><img src="https://github.com/user-attachments/assets/04c2ae36-993b-40cb-87c6-903cee2c7d84"></p>
 <p>En campaña todas las gemas tienen un sonido de drop. Siendo diferente el de espíritu para resaltarlas.</p>
@@ -53,8 +62,8 @@
 <p>Las gemas de habilidad de nivel 18 e inferior dejan de salir en mapas 13 y no tienen sonido en mapas.</p>
 <p>Las gemas de espíritu de nivel 18 e inferior dejan de salir en mapas 14 y no tienen sonido en mapas.</p>
 <p>El filtro destaca las gemas de habilidad y espíritu de nivel 20 como un tier S.</p>
-<p>El filtro destaca las gemas de espíritu de nivel 19 con sonido y rayo frente a las de habilidad que solo tienen sonido y es diferente.</p>
 <p><img src="https://github.com/user-attachments/assets/f7a12b47-1d7b-45d4-9aa3-279bc0f33753"></p>
+<p>El filtro destaca las gemas de espíritu de nivel 19 con sonido y rayo frente a las de habilidad que solo tienen sonido y es diferente.</p>
 </br>
 <h2>Piedras guías o mapas</h2>
 <p>Se han clasificado los mapas en tres tiers agrupados por dificultad o tipo de juego.</p>
@@ -73,9 +82,11 @@
   <li>Tier 3: las pruebas de la ascendencia de nivel de zona hasta 74</li>
 </ul>
 <p>Cuando llegues a mapas, dejarás de ver las Tier 3 y cuando hagas mapas 14 o mas, ya no te caeran las Tier 2.</p>
+<h2>Tabletas de atlas</h2>
+<p>El filtro diferencia y resalta las tablillas de mecanica con otro sonido y color.</p>
+<p><img src="https://github.com/user-attachments/assets/4dc0c36c-ec92-4742-b087-a67259ecae05"></p>
 
 <p><img src=""></p>
-
 
 
 
