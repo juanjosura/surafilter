@@ -12,6 +12,7 @@
 </br>
 <h2>Niveles de valor standard</h2>
 <p>El icono que sale, es el icono con el que saldrá el objeto en el juego en el mapa.</p>
+<p>Estos niveles engloban objetos monetarios normales y de mecánica como las instilaciones, los catalizadores, augurios, esencias, núcleos del alma...</p>
 <p><img src="https://github.com/user-attachments/assets/260409a5-98d5-4630-9834-725f1ea1579d"></p>
 <ul>
   <li>Tier S: Color morado sobre fondo blanco. Objetos muy valiosos o dificiles de conseguir.</li>
@@ -31,6 +32,14 @@
 <p><img src="https://github.com/user-attachments/assets/f9d1c524-e9b2-4a3f-92cf-eb62f84196e4"></p>
 <p>En el caso de los fragmentos de simulacro y las astillas de fisura, dependiendo de la cantidad de objetos en la pila que caiga tendra un color de icono diferente (1,2,5,10 y 25 objetos)</p>
 <p><img src="https://github.com/user-attachments/assets/ec72527d-3660-4ed0-b49c-c9d5ac31a9f9"></p>
+</br>
+<h2>Runas engarzables</h2>
+<p><img src="https://github.com/user-attachments/assets/7935ef6b-fdce-484b-83f3-3710d0ab8c45"></p>
+<p>Las runas que no se usan, dejaran de salir cuando llegues a mapas, y son:</p>
+<p><img src="https://github.com/user-attachments/assets/59baa166-9b59-4ae5-9bcf-225355191f59"></p>
+
+
+
 
 
 
