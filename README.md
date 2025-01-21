@@ -124,8 +124,22 @@
 <p><img src="https://github.com/user-attachments/assets/271bb760-3c04-4a9b-9a69-e835acd8b77e"></p>
 
 <h3>Joyeria y cinturones</h3>
-Los objetos blancos saldran destacados con un borde marron y rayo si son de nivel 82 y tier 1.
-Solo saldra joyeria y cinturones blancos si son objetos tier 1.
+<p>Los objetos blancos saldran destacados con un borde marron y rayo si son de nivel 82 y tier 1.</p>
+<p><img src="https://github.com/user-attachments/assets/f60779bf-e9c0-4a94-a0e4-0c654afb7bf9"></p>
+<p>Solo saldra joyeria y cinturones blancos si son objetos tier 1.</p>
+<p><img src="https://github.com/user-attachments/assets/88e77cd1-0c9d-45a1-8623-59be41ffe96d"></p>
+<p>Los anillos de brecha saldran con su propio estilo destacando los de nivel 82 con un borde.</p>
+<p><img src="https://github.com/user-attachments/assets/2a7c2d6d-95c2-48d7-9080-1f83813bf1a1"></p>
+
+<h3>Armas y armaduras</h3>
+<p>En mapas solo saldran objetos blancos de tier 1 o de tier 2 si son de nivel 82</p>
+<p>Los objetos de nivel 82 se destacan con un borde y un rayo, que ademas sera naranja si es de tier 1.</p>
+<p><img src="https://github.com/user-attachments/assets/b7b006e7-0bc9-42c9-8f78-9bf49ae03f13"></p>
+<p>Se han escondido a mano las bases de los objetos tier 1 que no se pueden vender o solo valen 1 ex. Esta lista va creciendo y evolucionando con el tiempo y puede contener errores, que en ningun caso te llevaran a la ruina.</p>
+<p><img src="https://github.com/user-attachments/assets/ef7d83b2-de66-44fe-8e33-4c286bf918e5"></p>
+
+
+
 
 <p><img src=""></p>
 
