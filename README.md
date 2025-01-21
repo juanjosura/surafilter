@@ -2,7 +2,7 @@
 <p><img src="https://github.com/user-attachments/assets/10f4ef66-a8cc-4f58-805b-d09941de784d"></p>
 <p>Filtro para POE2 para personajes desde nivel 1 hasta 99 y se basa en el nivel del área en el que estas para mostrar unas cosas u otras. Esta creado usando la herramienta Filterblade de Neversink</p>
 <p>Muy importante, los filtros en POE2 no son perfectos y puede haber errores, ademas de que puede que mañana salga una build y una cosa cambie de valor de repente y cambie de tier de valor. Estos tieres de valor son orientativos, comprobar siempre el valor del objeto en la página de trade antes de venderlo. https://www.pathofexile.com/trade2/search/poe2/Standard </p>
-<p>La idea del filtro es dividir todo los objetos vendibles, que no sean joyeria, armas y armaduras en 6 niveles de valor. Cada nivel de valor tiene su propio sonido, colores, iconos en el mapa y rayito para que te ciaga lo que te caiga, se te clasifique en ese tier y sepas mas o menos el valor del drop.</p>
+<p>La idea del filtro es dividir todo los objetos vendibles, que no sean joyeria, armas y armaduras en 6 niveles de valor. Cada nivel de valor tiene su propio sonido, colores, iconos en el mapa y rayito para que te caiga lo que te caiga, se te clasifique en ese tier y sepas mas o menos el valor del drop.</p>
 <p>El sistema de sonidos de drop tambien es consecuente con los objetos. Ademas lo util o valioso se destaca con un rayo saliendo del objeto.</p>
 <p>La filosofia del filtro es que solo por el color, el sonido o el rayo que tenga o no, sepas si un objeto puede ser util o valioso.</p>
 </br>
@@ -55,7 +55,24 @@
 <p>El filtro destaca las gemas de habilidad y espíritu de nivel 20 como un tier S.</p>
 <p>El filtro destaca las gemas de espíritu de nivel 19 con sonido y rayo frente a las de habilidad que solo tienen sonido y es diferente.</p>
 <p><img src="https://github.com/user-attachments/assets/f7a12b47-1d7b-45d4-9aa3-279bc0f33753"></p>
-
+</br>
+<h2>Piedras guías o mapas</h2>
+<p>Se han clasificado los mapas en tres tiers agrupados por dificultad o tipo de juego.</p>
+<p><img src="https://github.com/user-attachments/assets/ad233230-945b-4a08-ae21-e9ea297dbb42"></p>
+<p>Los mapas isntilados con delirium o corruptos con 7 o más modificadores salen asi:</p>
+<p><img src="https://github.com/user-attachments/assets/cd2ce4ca-167a-4ac9-9090-8625d5f81970"></p>
+<p>La lógica para dejar de mostrar niveles de piedras guía según el mapa que estas haciendo es:</p>
+<p><img src="https://github.com/user-attachments/assets/f3f63c0f-41ac-467a-a076-2612bb42a5b5"></p>
+</br>
+<h2>Llaves de prueba de ascendencia</h2>
+<p>El filtro agrupa las llaves en tres niveles.</p>
+<p><img src="https://github.com/user-attachments/assets/4a48eb5b-a84c-40a2-bec9-d8245c669563"></p>
+<ul>
+  <li>Tier 1: las pruebas de la ascendencia de nivel de zona 80.</li>
+  <li>Tier 2: las pruebas de la ascendencia de nivel de zona 75 a 79</li>
+  <li>Tier 3: las pruebas de la ascendencia de nivel de zona hasta 74</li>
+</ul>
+<p>Cuando llegues a mapas, dejarás de ver las Tier 3 y cuando hagas mapas 14 o mas, ya no te caeran las Tier 2.</p>
 
 <p><img src=""></p>
 
