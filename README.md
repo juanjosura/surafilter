@@ -75,7 +75,7 @@
 </br>
 <h2 id="joyas">Joyas</h2>
 <p><img src="https://github.com/user-attachments/assets/987e2058-9f40-449e-bebe-ae8861b023d0"></p>
-<p>Las joyas amarillas, corruptas o las especiales Time Lost, tendran icono en el suelo y rayito.</p>
+<p>Las joyas amarillas, corruptas o las especiales Time Lost tendrán un icono en el suelo y un rayo para destacarlas.</p>
 </br>
 <h2 id="objetos-de-quest">Objetos de quest</h2>
 <p><img src="https://github.com/user-attachments/assets/c1f6cace-e7a5-4fd1-815f-714c0977510f"></p>
@@ -84,14 +84,14 @@
 <h2 id="gemas-de-habilidad">Gemas de habilidad</h2>
 <p><img src="https://github.com/user-attachments/assets/04c2ae36-993b-40cb-87c6-903cee2c7d84"></p>
 <ul>
-<li>En campaña todas las gemas tienen un sonido de drop. Siendo diferente el de espíritu para resaltarlas.</li>
-<li>Las gemas de soporte dejan de salir en mapas T10.</li>
-<li>Las gemas de habilidad de nivel 18 e inferior dejan de salir en mapas 13 y no tienen sonido en mapas.</li>
-<li>Las gemas de espíritu de nivel 18 e inferior dejan de salir en mapas 14 y no tienen sonido en mapas.</li>
-<li>El filtro destaca las gemas de habilidad y espíritu de nivel 20 como un tier S.</li>
-<li><img src="https://github.com/user-attachments/assets/f7a12b47-1d7b-45d4-9aa3-279bc0f33753"></li>
-<li>El filtro destaca las gemas de espíritu de nivel 19 con sonido y rayo frente a las de habilidad que solo tienen sonido y es diferente.</li>
+<li>En campaña, todas las gemas tienen un sonido de drop, siendo el sonido de las gemas de espíritu diferente para resaltarlas.</li>
+<li>Las gemas de soporte dejan de aparecer en mapas T10.</li>
+<li>Las gemas de habilidad de nivel 18 e inferior dejan de aparecer en mapas T13 y no tienen sonido en mapas.</li>
+<li>Las gemas de espíritu de nivel 18 e inferior dejan de aparecer en mapas T14 y no tienen sonido en mapas.</li>
+<li>Las gemas de habilidad y espíritu de nivel 20 son destacadas como un tier S en el filtro.</li>
+<li>El filtro destaca las gemas de nivel 19 y distingue las gemas de espíritu de nivel 19 con sonido y rayo, frente a las de habilidad que solo tienen sonido, siendo este sonido diferente.</li>
 </ul>
+<img src="https://github.com/user-attachments/assets/f7a12b47-1d7b-45d4-9aa3-279bc0f33753">
 </br>
 <h2 id="piedras-guias">Piedras guías o mapas</h2>
 <p>Se han clasificado los mapas en tres tiers agrupados por dificultad o tipo de juego.</p>
