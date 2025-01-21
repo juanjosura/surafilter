@@ -66,7 +66,7 @@
 <h2 id="oro-y-pergaminos">Oro y pergaminos de identificación</h2>
 <p>El oro solo es relevante al comienzo del juego, por lo que el filtro oculta las pilas pequeñas y resalta las más grandes. Aunque el oro esté oculto, no desaparece; lo recogerás automáticamente al pasar por encima, evitando distracciones por montones pequeños, como 200 de oro, que recogerás sin darte cuenta.</p>
 <ul>
-    <li>En campaña: se ocultan todas las pilas menores a 250.</li>
+    <li>En campaña: se ocultan todas las pilas menores a 200.</li>
     <li>En mapas: se ocultan todas las pilas menores a 500.</li>
     <li>Resaltado especial: las pilas de al menos 2500 se destacarán con un borde y un icono.</li>
 </ul>
@@ -133,6 +133,7 @@
 <h2 id="objetos-raros">Objetos raros</h2>
 <p>El filtro se encargará de mostrar los tiers más acordes con el nivel de zona que estés haciendo.</p>
 <p>Si el objeto es de nivel 82, se destacará con un borde y un rayo, que será naranja si es de tier 1. Por lo tanto, los mejores objetos potencialmente serán los que salgan resaltados en naranja con rayo, aunque no significa que los demás no puedan ser valiosos.</p>
+<p>Si el objheto es de T1, tendfra un rayo temporal que desaparecerea en medio segundo.</p>
 <p><img src="https://github.com/user-attachments/assets/d8e02d86-ea55-43cf-89be-ee3b3f446b96"></p>
 
 <h2 id="objetos-normales-y-magicos">Objetos normales y mágicos</h2>
