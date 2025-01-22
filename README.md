@@ -50,6 +50,7 @@
 </br>
     <h2 id="objetos-monetarios-personalizados">Objetos monetarios personalizados</h2>
 <p>Estos objetos tienen su propio color y sonido cuando caen. Usan las voces del juego para darle mas sensación de que es parte del juego. Además, tienen diferentes tamaños en el suelo según su valor.<p>
+<p>Los orbes de transmutación, orbes de alteración y esquirlas de orbe regio, dejaran de salir en zonas nivel 80.</p>
 <p><img src="https://github.com/user-attachments/assets/b60219d5-2fa8-4afd-8bf0-ef78834e9fe5"></p>
 </br>
 <h2 id="objetos-standard-de-cada-mecanica">Objetos standard de cada mecánica</h2>
