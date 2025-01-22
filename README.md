@@ -92,7 +92,10 @@
 <li>Las gemas de habilidad y espíritu de nivel 20 son destacadas como un tier S en el filtro.</li>
 <li>El filtro destaca las gemas de nivel 19 y distingue las gemas de espíritu de nivel 19 con sonido y rayo, frente a las de habilidad que solo tienen sonido, siendo este sonido diferente.</li>
 </ul>
-<img src="https://github.com/user-attachments/assets/f693d6a8-8d95-4f46-bc02-67bab39795d4">
+<p><img src="https://github.com/user-attachments/assets/f693d6a8-8d95-4f46-bc02-67bab39795d4"></p>
+<p><img src="https://github.com/user-attachments/assets/4bee6caf-b369-40b4-8013-2c090fbe69be"></p>
+
+
 </br>
 <h2 id="piedras-guias">Piedras guías o mapas</h2>
 <p>Los mapas se han clasificado en tres tiers, agrupados por dificultad o tipo de juego.</p>
