@@ -169,7 +169,8 @@
 <p>Los objetos de nivel 82 se destacan con un borde y un rayo, que además será naranja si es de tier 1.</p>
 <p><img src="https://github.com/user-attachments/assets/b7b006e7-0bc9-42c9-8f78-9bf49ae03f13"></p>
 <p>Se han escondido manualmente las bases de los objetos tier 1 que no se pueden vender o solo valen 1 ex. Esta lista va creciendo y evolucionando con el tiempo y puede contener errores, pero en ningún caso estos errores te llevarán a la ruina.</p>
-<p><img src="https://github.com/user-attachments/assets/ef7d83b2-de66-44fe-8e33-4c286bf918e5"></p>
+<p><img src="https://github.com/user-attachments/assets/99d1755d-dddb-41d2-abb2-6be432496b4f"></p>
+
 
 
 
