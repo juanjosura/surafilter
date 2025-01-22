@@ -122,9 +122,10 @@
 <p>El filtro no puede identificar el objeto ni su valor exacto. Lo que sí puede hacer es determinar la base del objeto y compararla con los objetos únicos que comparten esa base. En algunos casos, solo existe un objeto único con esa base, por lo que se puede identificar fácilmente, mientras que en otros casos, esa base puede corresponder a varios objetos únicos.</p>
 <p>Los tiers de valor son orientativos.</p>
 <p>Los objetos multi base tienen iconos y rayos azules.</p>
-<p><img src="https://github.com/user-attachments/assets/bc4f9306-8783-42fa-8f98-b4b4491952c8"></p>
+<p><img src="https://github.com/user-attachments/assets/76c69dfa-8130-4cc6-a7ef-e43b4eac39b5"></p>
 
 <p>Sabiendo esto, podemos catalogar los únicos asi: </p>
+<p><img src="https://github.com/user-attachments/assets/bc4f9306-8783-42fa-8f98-b4b4491952c8"></p>
 <ul>
   <li>TIER S: Objetos que suelen ser muy valiosos.</li>
   <li>TIER A: Objetos que son vendibles y pueden ser muy valiosos si tienen los stats correctos.</li>
