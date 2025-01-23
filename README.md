@@ -136,11 +136,18 @@
   
 </ul>
 <h2 id="objetos-raros">Objetos raros</h2>
+<p><img src="https://github.com/user-attachments/assets/f14b0e1a-e1a1-4d09-ae76-caf1436234df"></p>
 <p>El filtro se encargará de mostrar los tiers más acordes con el nivel de zona que estés haciendo.</p>
-<p>Si el objeto es de nivel 82, se destacará con un borde y un rayo, que será naranja si es de tier 1. Por lo tanto, los mejores objetos potencialmente serán los que salgan resaltados en naranja con rayo, aunque no significa que los demás no puedan ser valiosos.</p>
+<p>Si el objeto es de nivel 82, se destacará con un borde y un rayo, que será rojo si es de tier 1 o amarillo si es de Tier 2. Por lo tanto, los mejores objetos potencialmente serán los que salgan resaltados en naranja con rayo rojo, aunque no significa que los demás no puedan ser valiosos.</p>
+<p><img src="https://github.com/user-attachments/assets/f8865372-69a7-4469-abd0-4d66cc730f46"></p>
+<p><img src="https://github.com/user-attachments/assets/5658915c-828a-4803-ad2e-7f636fb87805"></p>
+
+
 <p>Si el objeto es de T1 pero no es nivel 82, se destacará brevemente con un rayo temporal que desaparecerá en medio segundo.</p>
 <p>La joyería y los cinturones siempre tienen un icono en el minimapa.</p>
-<p><img src="https://github.com/user-attachments/assets/d8e02d86-ea55-43cf-89be-ee3b3f446b96"></p>
+
+
+
 
 <h2 id="objetos-normales-y-magicos">Objetos normales y mágicos</h2>
 <p>Las bases que se pueden vender porque se usan para crafting estan resaltadas con sonido, icono y borde amarillo o verde si ademas son bases de orbe de azar.</p>
