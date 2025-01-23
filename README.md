@@ -146,7 +146,7 @@
 <p>Las bases que se pueden vender porque se usan para crafting estan resaltadas con sonido, icono y borde amarillo o verde si ademas son bases de orbe de azar.</p>
 <p>La lista de las bases vendibles incluye:</p>
 <p><img src="https://github.com/user-attachments/assets/d11bf8d7-d86f-4033-8b9c-f06285ecedd2"></p>
-<p><img src="https://github.com/user-attachments/assets/ecd45cdf-17b1-4c76-bac5-f85610ffbcde)"></p>
+<p><img src="https://github.com/user-attachments/assets/ecd45cdf-17b1-4c76-bac5-f85610ffbcde"></p>
 <p><img src="https://github.com/user-attachments/assets/6532ab05-8ade-451c-b6bf-c360b850bb5c"></p>
 <p><img src="https://github.com/user-attachments/assets/0452f8f9-e142-4ab9-9a49-1536115af40e"></p>
 
