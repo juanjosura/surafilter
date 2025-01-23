@@ -138,9 +138,9 @@
 <h2 id="objetos-raros">Objetos raros</h2>
 <p><img src="https://github.com/user-attachments/assets/f14b0e1a-e1a1-4d09-ae76-caf1436234df"></p>
 <p>El filtro se encargará de mostrar los tiers más acordes con el nivel de zona que estés haciendo.</p>
-<p>Si el objeto es de nivel 82, se destacará con un borde y un rayo, que será rojo si es de tier 1 o amarillo si es de Tier 2. Por lo tanto, los mejores objetos potencialmente serán los que salgan resaltados en naranja con rayo rojo, aunque no significa que los demás no puedan ser valiosos.</p>
+<p>Si el objeto es de nivel 82, se destacará con un borde, y si es de tier 1 con un rayo. Por lo tanto, los mejores objetos potencialmente serán los que salgan resaltados en naranja con rayo, aunque no significa que los demás no puedan ser valiosos.</p>
 <p><img src="https://github.com/user-attachments/assets/f8865372-69a7-4469-abd0-4d66cc730f46"></p>
-<p><img src="https://github.com/user-attachments/assets/5658915c-828a-4803-ad2e-7f636fb87805"></p>
+
 
 
 <p>Si el objeto es de T1 pero no es nivel 82, se destacará brevemente con un rayo temporal que desaparecerá en medio segundo.</p>
