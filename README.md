@@ -31,8 +31,10 @@
     </div>
 <h2 id="como-usarlo">Cómo usarlo</h2>
 <p>Ir al perfil de Suraklin y darle a seguir al filtro: <a href="https://www.pathofexile.com/account/view-profile/suraklin-6011/item-filters">Perfil de Suraklin</a></p>
+<p>Seleccionar el filtro que mas os guste.</p>
+<p>El recomendado es la version normal, pero existe una versión en la que no se muestran los orbes monetarios básicos como el orbe de alteración etc.</p>
+<p><img src="https://github.com/user-attachments/assets/7f69cd58-240a-4f18-a8e4-64fe692093db"></p>
 
-<p><img src="https://github.com/user-attachments/assets/b368ca80-ac73-4470-9b45-7c4bbcdb1ea1"></p>
 <p>Para usar el filtro, entra al juego, ve a las opciones y selecciona el filtro desde el menú correspondiente. Cada vez que inicies el juego, el filtro se actualizará automáticamente a la última versión disponible.</p>
 <p><img src="https://github.com/user-attachments/assets/a773fbfc-252a-4fb3-8073-27cd5cccf8ee"></p>
 </br>
