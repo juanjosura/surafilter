@@ -136,17 +136,12 @@
   
 </ul>
 <h2 id="objetos-raros">Objetos raros</h2>
-<p><img src="https://github.com/user-attachments/assets/f14b0e1a-e1a1-4d09-ae76-caf1436234df"></p>
+<p><img src="https://github.com/user-attachments/assets/76eb2982-d06c-487d-b119-6688f9017ef3"></p>
 <p>El filtro se encargará de mostrar los tiers más acordes con el nivel de zona que estés haciendo.</p>
-<p>Si el objeto es de nivel 82, se destacará con un borde, y si es de tier 1 con un rayo. Por lo tanto, los mejores objetos potencialmente serán los que salgan resaltados en naranja con rayo, aunque no significa que los demás no puedan ser valiosos.</p>
-<p><img src="https://github.com/user-attachments/assets/f8865372-69a7-4469-abd0-4d66cc730f46"></p>
-
-
-
-<p>Si el objeto es de T1 pero no es nivel 82, se destacará brevemente con un rayo temporal que desaparecerá en medio segundo.</p>
+<p>Si el objeto es de nivel 82, se destacará con un borde e icono en el minimapa, y si es de tier 1 con un rayo. Por lo tanto, los mejores objetos potencialmente serán los que salgan resaltados en naranja con rayo, aunque no significa que los demás no puedan ser valiosos.</p>
+<p>Si el objeto es nivel 82, se destacará brevemente con un rayo temporal que desaparecerá en medio segundo.</p>
 <p>La joyería y los cinturones siempre tienen un icono en el minimapa.</p>
-
-
+<p><img src="https://github.com/user-attachments/assets/f8865372-69a7-4469-abd0-4d66cc730f46"></p>
 
 
 <h2 id="objetos-normales-y-magicos">Objetos normales y mágicos</h2>
@@ -156,9 +151,6 @@
 <p><img src="https://github.com/user-attachments/assets/ecd45cdf-17b1-4c76-bac5-f85610ffbcde"></p>
 <p><img src="https://github.com/user-attachments/assets/6532ab05-8ade-451c-b6bf-c360b850bb5c"></p>
 <p><img src="https://github.com/user-attachments/assets/0452f8f9-e142-4ab9-9a49-1536115af40e"></p>
-
-
-
 
 <p><img src="https://github.com/user-attachments/assets/391cd1df-b133-44e5-bbc0-7a1dcac917f0"></p>
 <h3>Viales</h3>
