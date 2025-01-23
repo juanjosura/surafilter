@@ -1,4 +1,4 @@
-<h1> Surafilter v1 - Filtro dinámico para POE2</h1>
+![image](https://github.com/user-attachments/assets/97c05521-b803-4b60-b9ba-b9877ee7ef96)<h1> Surafilter v1 - Filtro dinámico para POE2</h1>
 <p><img src="https://github.com/user-attachments/assets/10f4ef66-a8cc-4f58-805b-d09941de784d"></p>
 <p>Este filtro está diseñado para personajes desde el nivel 1 hasta el 99 y se basa en el nivel del área en la que te encuentras para mostrar distintos elementos según corresponda. Ha sido creado utilizando la herramienta FilterBlade de NeverSink.</p>
 <p>Es importante destacar que los filtros en POE2 no son perfectos y pueden contener errores. Además, es posible que, con la aparición de una nueva build, el valor de ciertos objetos cambie de forma repentina, alterando su tier de valor. Estos tiers son orientativos; por lo tanto, siempre verifica el valor del objeto en la página de comercio antes de venderlo: https://www.pathofexile.com/trade2/search/poe2/Standard </p>
@@ -143,7 +143,16 @@
 <p><img src="https://github.com/user-attachments/assets/d8e02d86-ea55-43cf-89be-ee3b3f446b96"></p>
 
 <h2 id="objetos-normales-y-magicos">Objetos normales y mágicos</h2>
-<p>Las bases que se pueden vender estan resaltadas con sonido, icono y borde amarillo o verde si ademas son bases de orbe de azar.</p>
+<p>Las bases que se pueden vender porque se usan para crafting estan resaltadas con sonido, icono y borde amarillo o verde si ademas son bases de orbe de azar.</p>
+<p>La lista de las bases vendibles incluye:</p>
+<p><img src="https://github.com/user-attachments/assets/d11bf8d7-d86f-4033-8b9c-f06285ecedd2"></p>
+<p><img src="https://github.com/user-attachments/assets/ecd45cdf-17b1-4c76-bac5-f85610ffbcde)"></p>
+<p><img src="https://github.com/user-attachments/assets/6532ab05-8ade-451c-b6bf-c360b850bb5c"></p>
+<p><img src="https://github.com/user-attachments/assets/0452f8f9-e142-4ab9-9a49-1536115af40e"></p>
+
+
+
+
 <p><img src="https://github.com/user-attachments/assets/391cd1df-b133-44e5-bbc0-7a1dcac917f0"></p>
 <h3>Viales</h3>
 <p>Estos son los comunmente considerados como útiles:</p>
