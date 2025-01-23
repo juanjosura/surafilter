@@ -143,6 +143,8 @@
 <p><img src="https://github.com/user-attachments/assets/d8e02d86-ea55-43cf-89be-ee3b3f446b96"></p>
 
 <h2 id="objetos-normales-y-magicos">Objetos normales y mágicos</h2>
+<p>Las bases que se pueden vender estan resaltadas con sonido, icono y borde amarillo o verde si ademas son bases de orbe de azar.</p>
+<p><img src="https://github.com/user-attachments/assets/391cd1df-b133-44e5-bbc0-7a1dcac917f0"></p>
 <h3>Viales</h3>
 <p>Estos son los comunmente considerados como útiles:</p>
 <p><img src="https://github.com/user-attachments/assets/3ddf6d93-f1b8-4a70-8781-c38bf2ec8874"></p>
