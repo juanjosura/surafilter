@@ -202,19 +202,15 @@
 
 Piedras guía de mas de 300:
 ####
-       ": \+[3-9]\d\d"
+        ": \+[3-9]\d\d"
 
 Piedras guía de mas de 400:
 ####
-       ": \+[4-9]\d\d"
+        ": \+[4-9]\d\d"
 
 Piedras guía de mas de 500:
 ####
         ": \+[5-9]\d\d"
-
-Piedras guía de mas de 600:
-####
-        ": \+[6-9]\d\d"
 
 Cantidad de objetos mayor de 10:
 ####
