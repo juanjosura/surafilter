@@ -190,9 +190,10 @@
 </br>
 <h2 id="busqueda">Filtros de busqueda</h2>
 ##
-Piedras guía de mas de 300:
+<tab><tab>Piedras guía de mas de 300:
 
 ##
+<tab><tab>
 \+([3-9]\d{2,}|[1-9]\d{3,})%
 
 Piedras guía de mas de 400:
