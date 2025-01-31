@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/97c05521-b803-4b60-b9ba-b9877ee7ef96)<h1> Surafilter v1 - Filtro dinámico para POE2</h1>
 <p><img src="https://github.com/user-attachments/assets/10f4ef66-a8cc-4f58-805b-d09941de784d"></p>
+<h3>El icono que aparece en las capturas adjuntas es el que saldrá en el mini mapa dentro del juego. Este icono no se mostrará en el nombre del objeto.</h3>
 <p>Este filtro está diseñado para personajes desde el nivel 1 hasta el 99 y se basa en el nivel del área en la que te encuentras para mostrar distintos elementos según corresponda. Ha sido creado utilizando la herramienta FilterBlade de NeverSink.</p>
 <p>Es importante destacar que los filtros en POE2 no son perfectos y pueden contener errores. Además, es posible que, con la aparición de una nueva build, el valor de ciertos objetos cambie de forma repentina, alterando su tier de valor. Estos tiers son orientativos; por lo tanto, siempre verifica el valor del objeto en la página de comercio antes de venderlo: https://www.pathofexile.com/trade2/search/poe2/Standard </p>
 <p>El filtro divide todos los objetos vendibles, excluyendo joyería, armas y armaduras, en seis niveles de valor. Cada nivel tiene su propio sonido, color, icono en el mapa y efecto visual (rayo) para que, independientemente del objeto que caiga, puedas clasificarlo rápidamente en un tier y saber su valor aproximado.</p>
@@ -10,6 +11,8 @@
 <ul>
     <li>Los orbes de transmutación, orbes de alteración y esquirlas de orbe regio, dejaran de salir en zonas nivel 80.</li>
     <li>A partir de mapas T1 dejarán de aparecer: runas que no se usan, pergaminos de identificación.</li>
+    <li>El oro se oculta o resalta en funbcion de la cantidad.</li>
+    <li>Las gemas de habilidad y las pruebas de ascendencia, dejarán de aparecer en función de su nivel y el tier del mapa en el que caigan.</li>
 </ul>
 
 </br>
@@ -46,7 +49,6 @@
 <p><img src="https://github.com/user-attachments/assets/a773fbfc-252a-4fb3-8073-27cd5cccf8ee"></p>
 </br>
  <h2 id="niveles-de-valor-standard">Niveles de valor standard</h2>
-<h3>El icono que aparece en las capturas adjuntas es el que saldrá en el mini mapa dentro del juego. Este icono no se mostrará en el nombre del objeto.</h3>
 <p>Estos niveles engloban objetos monetarios normales y de mecánica como las instilaciones, los catalizadores, augurios, esencias, núcleos del alma...</p>
 <p><img src="https://github.com/user-attachments/assets/087f6180-febb-48a5-a895-41adf28eb388"></p>
 <p><img src="https://github.com/user-attachments/assets/b0a1e4a9-69f0-464a-9e14-709d8674b899"></p>
@@ -73,9 +75,9 @@
 <h2 id="objetos-standard-de-cada-mecanica">Objetos standard de cada mecánica</h2>
 <p>Los artefactos de expedición, las astillas de fisura, los fragmentos de simulacro.</p>
 <p><img src="https://github.com/user-attachments/assets/f9d1c524-e9b2-4a3f-92cf-eb62f84196e4"></p>
+<p><img src="https://github.com/user-attachments/assets/378e8c6a-3792-42ac-af2e-2e30d00e0f4a"></p>
 <p>En el caso de los fragmentos de simulacro y las astillas de fisura, el color del icono variará según la cantidad de objetos en la pila que caigan. Las categorías son: 1, 2, 5, 10 y 25 objetos.</p>
 <p><img src="https://github.com/user-attachments/assets/b95b18c2-763f-42eb-8053-8908682a31b6"></p>
-<p><img src="https://github.com/user-attachments/assets/378e8c6a-3792-42ac-af2e-2e30d00e0f4a"></p>
 
 </br>
 <h2 id="runas-engarzables">Runas engarzables</h2>
@@ -83,7 +85,7 @@
 <p>Las runas que no se usan dejarán de aparecer una vez llegues a mapas. Estas son:</p>
 <p><img src="https://github.com/user-attachments/assets/59baa166-9b59-4ae5-9bcf-225355191f59"></p>
 </br>
-<h2 id="oro-y-pergaminos">Oro y pergaminos de identificación</h2>
+<h2 id="oro-y-pergaminos">Oro</h2>
 <p>El oro solo es relevante al comienzo del juego, por lo que el filtro oculta las pilas pequeñas y resalta las más grandes. Aunque el oro esté oculto, no desaparece; lo recogerás automáticamente al pasar por encima, evitando distracciones por montones pequeños, como 200 de oro, que recogerás sin darte cuenta.</p>
 <ul>
     <li>En campaña: se ocultan todas las pilas menores a 200.</li>
@@ -91,10 +93,10 @@
     <li>Resaltado especial: las pilas de al menos 2500 se destacarán con un borde y un icono.</li>
 </ul>
 <p><img src="https://github.com/user-attachments/assets/638438ea-a009-4152-8d46-dc5baeb4cba7"></p>
-<p>Los pergaminos de identificación dejarán de aparecer una vez llegues a mapas.</p>
+
 </br>
 <h2 id="joyas">Joyas</h2>
-<p><img src="https://github.com/user-attachments/assets/987e2058-9f40-449e-bebe-ae8861b023d0"></p>
+<p><img src="(https://github.com/user-attachments/assets/00aaa3cc-daf6-4b8c-b144-8641444e1e61"></p>
 <p>Las joyas amarillas, corruptas o las especiales Time Lost tendrán un icono en el suelo y un rayo para destacarlas.</p>
 </br>
 <h2 id="objetos-de-quest">Objetos de quest</h2>
@@ -126,7 +128,8 @@
 </br>
 <h2 id="llaves-ascendencia">Llaves de prueba de ascendencia</h2>
 <p>El filtro agrupa las llaves en tres niveles.</p>
-<p><img src="https://github.com/user-attachments/assets/4a48eb5b-a84c-40a2-bec9-d8245c669563"></p>
+<p><img src="https://github.com/user-attachments/assets/db704796-c41f-4d26-a30f-715123d76599"></p>
+
 <ul>
   <li>Tier 1: las pruebas de la ascendencia de nivel de zona 80.</li>
   <li>Tier 2: las pruebas de la ascendencia de nivel de zona 75 a 79</li>
