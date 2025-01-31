@@ -1,16 +1,17 @@
 <h1> Surafilter v1 - Filtro dinámico para POE2</h1>
 <p><img src="https://github.com/user-attachments/assets/10f4ef66-a8cc-4f58-805b-d09941de784d"></p>
 <h3>El icono que aparece en las capturas adjuntas es el que saldrá en el mini mapa dentro del juego. Este icono no se mostrará en el nombre del objeto.</h3>
-<p>Este filtro está diseñado para personajes desde el nivel 1 hasta el 99 y se basa en el nivel del área en la que te encuentras para mostrar distintos elementos según corresponda. Ha sido creado utilizando la herramienta FilterBlade de NeverSink.</p>
-<p>Es importante destacar que los filtros en POE2 no son perfectos y pueden contener errores. Además, es posible que, con la aparición de una nueva build, el valor de ciertos objetos cambie de forma repentina, alterando su tier de valor. Estos tiers son orientativos; por lo tanto, siempre verifica el valor del objeto en la página de comercio antes de venderlo: https://www.pathofexile.com/trade2/search/poe2/Standard </p>
+<p>Este filtro está diseñado para personajes desde el nivel 1 hasta el 99 y se basa en el nivel del área en la que te encuentras para mostrar distintos elementos según corresponda. 
 <p>El objetivo del filtro es que, mediante el color, el sonido o el efecto visual, puedas identificar de forma intuitiva si un objeto es útil o valioso.</p>
-
+<p>Es importante destacar que los filtros en POE2 no son perfectos y pueden contener errores. Además, es posible que, con la aparición de una nueva build, el valor de ciertos objetos cambie de forma repentina, alterando su tier de valor. Estos tiers son orientativos; por lo tanto, siempre verifica el valor del objeto en la página de comercio antes de venderlo: https://www.pathofexile.com/trade2/search/poe2/Standard </p>
+<p>Ha sido creado utilizando la herramienta FilterBlade de NeverSink.</p>
 
 <h3>Principales caracteristicas:</h3>
 <ul>
     <li>Todos los objetos monetarios o de mecanica de temprada clasificados pos su valor y agrupados en 6 tiers de valor.</li>
     <li>Cada tier de valor tiene colores, tamaños, efectos visuales (rayos saliendo del suelo) y sonidos diferentes.</li>
-    <li>Los orbes de transmutación, orbes de alteración y esquirlas de orbe regio, dejaran de salir en zonas nivel 80.</li>
+    <li>Los orbes de transmutación, orbes de alteración y esquirlas de orbe regio, dejaran de salir en zonas nivel 80.(Mapas T15+)</li>
+    <li>Los objetos rompibles por objetos de calidad estan destacados y dejaran de aparecer los grandes en mapas T13 y todos en mapas T14+.</li>
     <li>A partir de mapas T1 dejarán de aparecer: runas que no se usan, pergaminos de identificación.</li>
     <li>El oro se oculta o resalta en funbcion de la cantidad.</li>
     <li>Las gemas de habilidad y las pruebas de ascendencia, dejarán de aparecer en función de su nivel y el tier del mapa en el que caigan.</li>
@@ -146,7 +147,7 @@
 <p>El filtro no puede identificar el objeto ni su valor exacto. Lo que sí puede hacer es determinar la base del objeto y compararla con los objetos únicos que comparten esa base. En algunos casos, solo existe un objeto único con esa base, por lo que se puede identificar fácilmente, mientras que en otros casos, esa base puede corresponder a varios objetos únicos.</p>
 <p>Los tiers de valor son orientativos.</p>
 <p>Sabiendo esto, podemos catalogar los únicos asi: </p>
-<p><img src="https://github.com/user-attachments/assets/71c72242-476f-43f2-8273-f7764db01e66)"></p>
+<p><img src="https://github.com/user-attachments/assets/71c72242-476f-43f2-8273-f7764db01e66"></p>
 <ul>
   <li>TIER S: Objetos que suelen ser muy valiosos.</li>
   <li>TIER A: Objetos que son valiosos y pueden ser muy valiosos si tienen los stats correctos.</li>
