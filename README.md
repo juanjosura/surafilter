@@ -216,20 +216,28 @@ Piedras guía de mas de 600:
 ####
         ": \+[6-9]\d\d"
 
-Cantidad de objetos mastyor de 10:
+Cantidad de objetos mayor de 10:
 ####
         c\D{11}o\D{7}e.*[2-9]\d+%
 
+Rareza de objetos mayor de 10:
+####
+        r.{11}o.*[1-9]\d+%
+Rareza de objetos mayor de 100:
+####
+        r.{11}o.*1\d{2,}%
 
+Cantidad de Objetos > 10% & Rareza de Objetos >10%
+####
+        " r.{11}o.*[1-9]\d+%" "c\D{11}o\D{7}e.*[1-9]\d+%"
 
+Cantidad de monstruos raros
+####
+        c\D{11}m\D{9}r.*[2-9]\d+%
 
-
-
-
-
-
-
-
+Cantidad, rareza y raros
+####
+        " r.{11}o.*[1-9]\d+%" "c\D{11}o\D{7}e.*[1-9]\d+%" "c\D{11}m\D{9}r.*[2-9]\d+%"
 
 
 
