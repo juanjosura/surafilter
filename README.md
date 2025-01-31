@@ -27,6 +27,7 @@
             <li><a href="#objetos-unicos">Objetos únicos</a></li>
             <li><a href="#objetos-raros">Objetos raros</a></li>
             <li><a href="#objetos-normales-y-magicos">Objetos normales y mágicos</a></li>
+            <li><a href="#busqueda">Filtros de busqueda</a></li>
         </ul>
     </div>
 <h2 id="como-usarlo">Cómo usarlo</h2>
@@ -189,12 +190,9 @@
 
 </br>
 <h2 id="busqueda">Filtros de busqueda</h2>
-##
-<tab><tab>Piedras guía de mas de 300:
-
-##
-<tab><tab>
-\+([3-9]\d{2,}|[1-9]\d{3,})%
+Piedras guía de mas de 300:
+##########
+        \+([3-9]\d{2,}|[1-9]\d{3,})%
 
 Piedras guía de mas de 400:
 \+([4-9]\d{2,}|[1-9]\d{3,})%
