@@ -48,7 +48,7 @@
  <h2 id="niveles-de-valor-standard">Niveles de valor standard</h2>
 <p>Estos niveles engloban objetos monetarios normales y de mecánica como las instilaciones, los catalizadores, augurios, esencias, núcleos del alma...</p>
 <p><img src="https://github.com/user-attachments/assets/087f6180-febb-48a5-a895-41adf28eb388"></p>
-<p><img src="https://github.com/user-attachments/assets/ef28b66b-b5ef-48ba-a144-d63f16ea144e"></p>
+<p><img src="https://github.com/user-attachments/assets/b0a1e4a9-69f0-464a-9e14-709d8674b899"></p>
 
 <ul>
   <li>Tier S: Color morado sobre fondo blanco. Objetos muy valiosos o dificiles de conseguir.</li>
@@ -62,6 +62,7 @@
 <h2 id="objetos-monetarios-personalizados">Objetos monetarios personalizados</h2>
 <p>Estos objetos tienen su propio color y sonido cuando caen. Usan las voces del juego para darle mas sensación de que es parte del juego. Además, tienen diferentes tamaños en el suelo según su valor.<p>
 <p><img src="https://github.com/user-attachments/assets/b37bb189-8233-44fa-8887-7ecbca97b013"></p>
+<p><img src="https://github.com/user-attachments/assets/ef28b66b-b5ef-48ba-a144-d63f16ea144e"></p>
 <h2 id="objetos-monetarios-calidad">Objetos monetarios de calidad y huecos</h2>
 <p>Estos son los objetos que se usan para darle calidad a un arma o armadura o hacerle huecos. Se pueden obtener esquirlkas de estos objetos en la mesa de reciclaje.</p>
 <p><img src="https://github.com/user-attachments/assets/b903e11c-d62b-447f-85c1-8dae713bfe80"></p>
