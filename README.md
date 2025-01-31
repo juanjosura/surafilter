@@ -8,14 +8,16 @@
 
 <h3>Principales caracteristicas:</h3>
 <ul>
-    <li>Todos los objetos monetarios o de mecanica de temprada clasificados pos su valor y agrupados en 6 tiers de valor.</li>
+    <li>Todos los objetos monetarios o de mecanica de temporada clasificados pos su valor y agrupados en 6 tiers de valor.</li>
     <li>Cada tier de valor tiene colores, tamaños, efectos visuales (rayos saliendo del suelo) y sonidos diferentes.</li>
-    <li>Los orbes de transmutación, orbes de alteración y esquirlas de orbe regio, dejaran de salir en zonas nivel 80.(Mapas T15+)</li>
+    <li>Los orbes de transmutación, orbes de alteración y esquirlas de orbe regio, dejaran de salir en zonas nivel 80 (Mapas T15+).</li>
     <li>Los objetos rompibles por objetos de calidad estan destacados y dejaran de aparecer los grandes en mapas T13 y todos en mapas T14+.</li>
     <li>A partir de mapas T1 dejarán de aparecer: runas que no se usan, pergaminos de identificación.</li>
-    <li>El oro se oculta o resalta en funbcion de la cantidad.</li>
+    <li>El oro se oculta o resalta en función de la cantidad.</li>
     <li>Las gemas de habilidad y las pruebas de ascendencia, dejarán de aparecer en función de su nivel y el tier del mapa en el que caigan.</li>
-    <li>Filtrado dinámico de objetos tipo armadura, armas, joyeria y cinturones </li>
+    <li>Filtrado dinámico de objetos tipo armadura, armas, joyeria y cinturones en función de su potencial utilidad y el tier del mapa en el que caigan.</li>
+    <li>Objetos raros de nivel alto destacados.</li>
+    <li>Bases  de crafteo vendibles destacadas y agrupadas en tiers de valor orientativos.</li>
 </ul>
 
 </br>
@@ -99,8 +101,8 @@
 
 </br>
 <h2 id="joyas">Joyas</h2>
-<p><img src="(https://github.com/user-attachments/assets/00aaa3cc-daf6-4b8c-b144-8641444e1e61"></p>
-<p>Las joyas amarillas, corruptas o las especiales Time Lost tendrán un icono en el suelo y un rayo para destacarlas.</p>
+<p><img src="https://github.com/user-attachments/assets/00aaa3cc-daf6-4b8c-b144-8641444e1e61"></p>
+<p>Las joyas especiales Time Lost tendrán un icono en el suelo y un rayo para destacarlas.</p>
 </br>
 <h2 id="objetos-de-quest">Objetos de quest</h2>
 <p><img src="https://github.com/user-attachments/assets/c1f6cace-e7a5-4fd1-815f-714c0977510f"></p>
@@ -158,21 +160,15 @@
 <p>Los objetos de armadura, armas, joyeria y cinturones se clasifican en TIERS (T1,T2,T3) según la base del objeto. Hay algunas bases que son mas valiosas que otras y el filtro te mostrará en cada nivel lo mas adecuado destacando siempre los objetos T1 o de nivel máximo(item lvl 82).</p>
 <p><img src="https://github.com/user-attachments/assets/76eb2982-d06c-487d-b119-6688f9017ef3"></p>
 <p>El filtro se encargará de mostrar los tiers más acordes con el nivel de zona que estés haciendo.</p>
-<p>Si el objeto es de nivel 82, se destacará con un borde e icono en el minimapa, y si es de tier 1 con un rayo. Por lo tanto, los mejores objetos potencialmente serán los que salgan resaltados en naranja con rayo, aunque no significa que los demás no puedan ser valiosos.</p>
-<p>Si el objeto es nivel 82, se destacará brevemente con un rayo temporal que desaparecerá en medio segundo.</p>
-<p>La joyería y los cinturones siempre tienen un icono en el minimapa.</p>
+<p>Si el objeto es de nivel 82, se destacará con un borde, y si además es de tier 1 con un rayo e icono en el minimapa. Por lo tanto, los mejores objetos potencialmente serán los que salgan resaltados en naranja con rayo, aunque no significa que los demás no puedan ser valiosos.</p>
+<p>La joyería y los cinturones siempre tienen un icono en el minimapa y siguen el mismo patrón para descarlos si son levl82+ o t1.</p>
 <p><img src="https://github.com/user-attachments/assets/f8865372-69a7-4469-abd0-4d66cc730f46"></p>
 
 
 <h2 id="objetos-normales-y-magicos">Objetos normales y mágicos</h2>
-<p>Las bases que se pueden vender porque se usan para crafting estan resaltadas con sonido, icono y borde amarillo o verde si ademas son bases de orbe de azar.</p>
-<p>La lista de las bases vendibles incluye:</p>
-<p><img src="https://github.com/user-attachments/assets/d11bf8d7-d86f-4033-8b9c-f06285ecedd2"></p>
-<p><img src="https://github.com/user-attachments/assets/ecd45cdf-17b1-4c76-bac5-f85610ffbcde"></p>
-<p><img src="https://github.com/user-attachments/assets/6532ab05-8ade-451c-b6bf-c360b850bb5c"></p>
-<p><img src="https://github.com/user-attachments/assets/0452f8f9-e142-4ab9-9a49-1536115af40e"></p>
+<p>Las bases que se pueden vender porque se usan para crafting estan resaltadas y agrupadas en tiers de valor orientativos.</p>
+<p><img src="https://github.com/user-attachments/assets/cf61145b-b378-4a79-bcd7-9950c51a690f"></p>
 
-<p><img src="https://github.com/user-attachments/assets/391cd1df-b133-44e5-bbc0-7a1dcac917f0"></p>
 <h3>Viales</h3>
 <p>Estos son los comunmente considerados como útiles:</p>
 <p><img src="https://github.com/user-attachments/assets/3ddf6d93-f1b8-4a70-8781-c38bf2ec8874"></p>
