@@ -193,12 +193,15 @@
 Piedras guía de mas de 300:
 ####
         \+([3-9]\d{2,}|[1-9]\d{3,})%
+        
 Piedras guía de mas de 400:
 ####
         \+([4-9]\d{2,}|[1-9]\d{3,})%
+        
 Piedras guía de mas de 500:
 ####
         \+([5-9]\d{2,}|[1-9]\d{3,})%
+        
 Piedras guía de mas de 600:
 ####
         \+([6-9]\d{2,}|[1-9]\d{3,})%
