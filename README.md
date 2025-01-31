@@ -48,7 +48,7 @@
  <h2 id="niveles-de-valor-standard">Niveles de valor standard</h2>
 <p>Estos niveles engloban objetos monetarios normales y de mecánica como las instilaciones, los catalizadores, augurios, esencias, núcleos del alma...</p>
 <p><img src="https://github.com/user-attachments/assets/087f6180-febb-48a5-a895-41adf28eb388"></p>
-
+<p><img src="https://github.com/user-attachments/assets/ef28b66b-b5ef-48ba-a144-d63f16ea144e"></p>
 
 <ul>
   <li>Tier S: Color morado sobre fondo blanco. Objetos muy valiosos o dificiles de conseguir.</li>
