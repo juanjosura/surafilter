@@ -210,7 +210,7 @@ Piedras guía de mas de 400:
 
 Cantidad de objetos mayor de 10:
 ####
-    c\D{11}o\D{7}e.*[2-9]\d+%
+    c\D{11}o\D{7}e.*[1-9]\d+%
 
 Rareza de objetos mayor de 10:
 ####
