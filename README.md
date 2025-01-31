@@ -202,30 +202,30 @@
 
 Piedras guía de mas de 300:
 ####
-        ": \+[3-9]\d\d"
+    ": \+[3-9]\d\d"
 
 Piedras guía de mas de 400:
 ####
-        ": \+[4-9]\d\d"
+    ": \+[4-9]\d\d"
 
 Piedras guía de mas de 500:
 ####
-        ": \+[5-9]\d\d"
+    ": \+[5-9]\d\d"
 
 Cantidad de objetos mayor de 10:
 ####
-        c\D{11}o\D{7}e.*[2-9]\d+%
+    c\D{11}o\D{7}e.*[2-9]\d+%
 
 Rareza de objetos mayor de 10:
 ####
-        r.{11}o.*[1-9]\d+%
+    r.{11}o.*[1-9]\d+%
 Rareza de objetos mayor de 100:
 ####
-        r.{11}o.*1\d{2,}%
+    r.{11}o.*1\d{2,}%
 
 Cantidad de Objetos > 10% & Rareza de Objetos >10%
 ####
-        "r.{11}o.*[1-9]\d+%" "c\D{11}o\D{7}e.*[1-9]\d+%"
+    "r.{11}o.*[1-9]\d+%" "c\D{11}o\D{7}e.*[1-9]\d+%"
 
 Cantidad de monstruos raros
 ####
@@ -233,5 +233,5 @@ Cantidad de monstruos raros
 
 Cantidad de Objetos > 20% & Rareza de Objetos >20%
 ####
-        "r.{11}o.*[2-9]\d+%" "c\D{11}o\D{7}e.*[2-9]\d+%"
+    "r.{11}o.*[2-9]\d+%" "c\D{11}o\D{7}e.*[2-9]\d+%"
 
