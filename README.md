@@ -137,25 +137,19 @@
 </ul>
 <p>Cuando llegues a mapas, dejarás de ver las llaves de Tier 3, y cuando hagas mapas T14 o más, ya no te caerán las llaves de Tier 2.</p>
 <h2 id="tabletas-de-atlas">Tabletas de atlas</h2>
-<p>El filtro diferencia y resalta las tablillas de mecánica con otro sonido y color.</p>
-<p><img src="https://github.com/user-attachments/assets/4dc0c36c-ec92-4742-b087-a67259ecae05"></p>
+<p>El filtro diferencia y resalta las tablillas de mecánica con otro sonido y color, destacando las tablillas de ritual por su valor en el mercado, por encima de los 50 o 60 orbes exaltados</p>
+<p><img src="https://github.com/user-attachments/assets/377e4dd9-c829-4533-857a-acf3b82ae09e"></p>
 </br>
 <h2 id="objetos-unicos">Objetos únicos</h2>
 <p>El filtro no puede identificar el objeto ni su valor exacto. Lo que sí puede hacer es determinar la base del objeto y compararla con los objetos únicos que comparten esa base. En algunos casos, solo existe un objeto único con esa base, por lo que se puede identificar fácilmente, mientras que en otros casos, esa base puede corresponder a varios objetos únicos.</p>
 <p>Los tiers de valor son orientativos.</p>
-<p>Los objetos multi base tienen iconos y rayos azules.</p>
-<p><img src="https://github.com/user-attachments/assets/76c69dfa-8130-4cc6-a7ef-e43b4eac39b5"></p>
-
 <p>Sabiendo esto, podemos catalogar los únicos asi: </p>
-<p><img src="https://github.com/user-attachments/assets/bc4f9306-8783-42fa-8f98-b4b4491952c8"></p>
+<p><img src="https://github.com/user-attachments/assets/71c72242-476f-43f2-8273-f7764db01e66)"></p>
 <ul>
   <li>TIER S: Objetos que suelen ser muy valiosos.</li>
-  <li>TIER A: Objetos que son vendibles y pueden ser muy valiosos si tienen los stats correctos.</li>
+  <li>TIER A: Objetos que son valiosos y pueden ser muy valiosos si tienen los stats correctos.</li>
   <li>TIER B y C: Objetos que son malos pero pueden ser valiosos si tienen los stats correctos.</li>
   <li>TIER D: Objetos que son malos y solo valen para romperlos.</li>
-  <li>MULTIBASE: Objetos que hay dos versiones con la misma base, una no vale nada y la otra si. Suerte.</li>
-  <li>MULTIBASE de JEFE: Objetos que hay dos versiones con la misma base, una no vale nada y la otra si, si te la tira un jefe.</li>
-  
 </ul>
 <h2 id="objetos-raros">Objetos raros</h2>
 <p><img src="https://github.com/user-attachments/assets/76eb2982-d06c-487d-b119-6688f9017ef3"></p>
