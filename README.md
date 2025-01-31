@@ -6,6 +6,11 @@
 <p>Los sonidos asociados a los drops son consistentes con la importancia del objeto. Los objetos útiles o valiosos se destacan con un rayo que sale directamente de ellos.</p>
 <p>Los objetos de armadura, armas, joyeria y cinturones se clasifican en TIERS (T1,T2,T3) según la base del objeto. Hay algunas bases que son mas valiosas que otras y el filtro te mostrará en cada nivel lo mas adecuado destacando siempre los objetos T1 o de nivel máximo(item lvl 82).</p>
 <p>El objetivo del filtro es que, mediante el color, el sonido o el efecto visual, puedas identificar de forma intuitiva si un objeto es útil o valioso.</p>
+<h3>Principales caracteristicas:</h3>
+<ul>
+    <li>Los orbes de transmutación, orbes de alteración y esquirlas de orbe regio, dejaran de salir en zonas nivel 80.</li>
+</ul>
+
 <p>El icono que aparece en las capturas adjuntas es el que saldrá en el mini mapa dentro del juego. Este icono no se mostrará en el nombre del objeto.</p>
 </br>
     <div class="indice">
@@ -14,6 +19,7 @@
             <li><a href="#como-usarlo">Cómo usarlo</a></li>
             <li><a href="#niveles-de-valor-standard">Niveles de valor standard</a></li>
             <li><a href="#objetos-monetarios-personalizados">Objetos monetarios personalizados</a></li>
+            <li><a href="#objetos-monetarios-calidad">Objetos monetarios de calidad y huecos</a></li>
             <li><a href="#objetos-standard-de-cada-mecanica">Objetos standard de cada mecánica</a></li>
             <li><a href="#runas-engarzables">Runas engarzables</a></li>
             <li><a href="#oro-y-pergaminos">Oro y pergaminos de identificación</a></li>
@@ -46,17 +52,21 @@
 
 <ul>
   <li>Tier S: Color morado sobre fondo blanco. Objetos muy valiosos o dificiles de conseguir.</li>
-  <li>Tier A: Color rojo sobre fondo blanco. Objetos generalmente de 10 exaltados o más.</li>
-  <li>Tier B: Color naranja sobre fondo blanco. Objetos generalmente de 3 exaltados o más.</li>
+  <li>Tier A: Color rojo sobre fondo blanco. Objetos generalmente de 15 exaltados o más.</li>
+  <li>Tier B: Color naranja sobre fondo blanco. Objetos generalmente de entre 3 y 10 exaltados</li>
   <li>Tier C: Color amarillo sobre fondo blanco. Objetos generalmente de alrededor de 1 exaltado.</li>
   <li>Tier D: Color del juego pero con borde. Objetos de poco valor pero usables</li>
   <li>Tier E: Color del juego. Objetos de valor ínfimo.</li>
 </ul>
 </br>
-    <h2 id="objetos-monetarios-personalizados">Objetos monetarios personalizados</h2>
+<h2 id="objetos-monetarios-personalizados">Objetos monetarios personalizados</h2>
 <p>Estos objetos tienen su propio color y sonido cuando caen. Usan las voces del juego para darle mas sensación de que es parte del juego. Además, tienen diferentes tamaños en el suelo según su valor.<p>
-<p>Los orbes de transmutación, orbes de alteración y esquirlas de orbe regio, dejaran de salir en zonas nivel 80.</p>
-<p><img src="https://github.com/user-attachments/assets/b60219d5-2fa8-4afd-8bf0-ef78834e9fe5"></p>
+<p><img src="https://github.com/user-attachments/assets/b37bb189-8233-44fa-8887-7ecbca97b013"></p>
+<h2 id="objetos-monetarios-calidad">Objetos monetarios de calidad y huecos</h2>
+<p>Estos son los objetos que se usan para darle calidad a un arma o armadura o hacerle huecos. Se pueden obtener esquirlkas de estos objetos en la mesa de reciclaje.</p>
+<p><img src="https://github.com/user-attachments/assets/b903e11c-d62b-447f-85c1-8dae713bfe80"></p>
+<p><img src="https://github.com/user-attachments/assets/f7840446-4707-4e1f-aae2-d668defb3670"></p>
+
 </br>
 <h2 id="objetos-standard-de-cada-mecanica">Objetos standard de cada mecánica</h2>
 <p>Los artefactos de expedición, las astillas de fisura, los fragmentos de simulacro.</p>
