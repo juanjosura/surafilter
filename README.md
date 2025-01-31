@@ -229,16 +229,13 @@ Rareza de objetos mayor de 100:
 
 Cantidad de Objetos > 10% & Rareza de Objetos >10%
 ####
-        " r.{11}o.*[1-9]\d+%" "c\D{11}o\D{7}e.*[1-9]\d+%"
+        "r.{11}o.*[1-9]\d+%" "c\D{11}o\D{7}e.*[1-9]\d+%"
 
 Cantidad de monstruos raros
 ####
         c\D{11}m\D{9}r.*[2-9]\d+%
 
-Cantidad, rareza y raros
+Cantidad de Objetos > 20% & Rareza de Objetos >20%
 ####
-        " r.{11}o.*[1-9]\d+%" "c\D{11}o\D{7}e.*[1-9]\d+%" "c\D{11}m\D{9}r.*[2-9]\d+%"
-
-
-
+        "r.{11}o.*[2-9]\d+%" "c\D{11}o\D{7}e.*[2-9]\d+%"
 
