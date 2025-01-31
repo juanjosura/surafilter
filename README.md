@@ -3,16 +3,18 @@
 <h3>El icono que aparece en las capturas adjuntas es el que saldrá en el mini mapa dentro del juego. Este icono no se mostrará en el nombre del objeto.</h3>
 <p>Este filtro está diseñado para personajes desde el nivel 1 hasta el 99 y se basa en el nivel del área en la que te encuentras para mostrar distintos elementos según corresponda. Ha sido creado utilizando la herramienta FilterBlade de NeverSink.</p>
 <p>Es importante destacar que los filtros en POE2 no son perfectos y pueden contener errores. Además, es posible que, con la aparición de una nueva build, el valor de ciertos objetos cambie de forma repentina, alterando su tier de valor. Estos tiers son orientativos; por lo tanto, siempre verifica el valor del objeto en la página de comercio antes de venderlo: https://www.pathofexile.com/trade2/search/poe2/Standard </p>
-<p>El filtro divide todos los objetos vendibles, excluyendo joyería, armas y armaduras, en seis niveles de valor. Cada nivel tiene su propio sonido, color, icono en el mapa y efecto visual (rayo) para que, independientemente del objeto que caiga, puedas clasificarlo rápidamente en un tier y saber su valor aproximado.</p>
-<p>Los sonidos asociados a los drops son consistentes con la importancia del objeto. Los objetos útiles o valiosos se destacan con un rayo que sale directamente de ellos.</p>
-<p>Los objetos de armadura, armas, joyeria y cinturones se clasifican en TIERS (T1,T2,T3) según la base del objeto. Hay algunas bases que son mas valiosas que otras y el filtro te mostrará en cada nivel lo mas adecuado destacando siempre los objetos T1 o de nivel máximo(item lvl 82).</p>
 <p>El objetivo del filtro es que, mediante el color, el sonido o el efecto visual, puedas identificar de forma intuitiva si un objeto es útil o valioso.</p>
+
+
 <h3>Principales caracteristicas:</h3>
 <ul>
+    <li>Todos los objetos monetarios o de mecanica de temprada clasificados pos su valor y agrupados en 6 tiers de valor.</li>
+    <li>Cada tier de valor tiene colores, tamaños, efectos visuales (rayos saliendo del suelo) y sonidos diferentes.</li>
     <li>Los orbes de transmutación, orbes de alteración y esquirlas de orbe regio, dejaran de salir en zonas nivel 80.</li>
     <li>A partir de mapas T1 dejarán de aparecer: runas que no se usan, pergaminos de identificación.</li>
     <li>El oro se oculta o resalta en funbcion de la cantidad.</li>
     <li>Las gemas de habilidad y las pruebas de ascendencia, dejarán de aparecer en función de su nivel y el tier del mapa en el que caigan.</li>
+    <li>Filtrado dinámico de objetos tipo armadura, armas, joyeria y cinturones </li>
 </ul>
 
 </br>
@@ -152,6 +154,7 @@
   <li>TIER D: Objetos que son malos y solo valen para romperlos.</li>
 </ul>
 <h2 id="objetos-raros">Objetos raros</h2>
+<p>Los objetos de armadura, armas, joyeria y cinturones se clasifican en TIERS (T1,T2,T3) según la base del objeto. Hay algunas bases que son mas valiosas que otras y el filtro te mostrará en cada nivel lo mas adecuado destacando siempre los objetos T1 o de nivel máximo(item lvl 82).</p>
 <p><img src="https://github.com/user-attachments/assets/76eb2982-d06c-487d-b119-6688f9017ef3"></p>
 <p>El filtro se encargará de mostrar los tiers más acordes con el nivel de zona que estés haciendo.</p>
 <p>Si el objeto es de nivel 82, se destacará con un borde e icono en el minimapa, y si es de tier 1 con un rayo. Por lo tanto, los mejores objetos potencialmente serán los que salgan resaltados en naranja con rayo, aunque no significa que los demás no puedan ser valiosos.</p>
