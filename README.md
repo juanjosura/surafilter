@@ -229,7 +229,7 @@ Cantidad de Objetos > 10% & Rareza de Objetos >10%
 
 Cantidad de monstruos raros
 ####
-        c\D{11}m\D{9}r.*[2-9]\d+%
+    c\D{11}m\D{9}r.*[2-9]\d+%
 
 Cantidad de Objetos > 20% & Rareza de Objetos >20%
 ####
