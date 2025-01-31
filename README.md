@@ -202,19 +202,23 @@
 
 Piedras guía de mas de 300:
 ####
-        \+([3-9]\d{2,}|[1-9]\d{3,})%
+       ": \+[3-9]\d\d"
 
 Piedras guía de mas de 400:
 ####
-        \+([4-9]\d{2,}|[1-9]\d{3,})%
+       ": \+[4-9]\d\d"
 
 Piedras guía de mas de 500:
 ####
-        \+([5-9]\d{2,}|[1-9]\d{3,})%
+        ": \+[5-9]\d\d"
 
 Piedras guía de mas de 600:
 ####
-        \+([6-9]\d{2,}|[1-9]\d{3,})%
+        ": \+[6-9]\d\d"
+
+Cantidad de objetos mastyor de 10:
+####
+        c\D{11}o\D{7}e.*[2-9]\d+%
 
 
 
