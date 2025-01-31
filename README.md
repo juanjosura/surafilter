@@ -219,9 +219,9 @@ Rareza de objetos mayor de 100:
 ####
     r.{11}o.*1\d{2,}%
 
-Cantidad de monstruos raros
+Cantidad de monstruos raros amyor de 10
 ####
-    c\D{11}m\D{9}r.*[2-9]\d+%
+    c\D{11}m\D{9}r.*[1-9]\d+%
 
 Cantidad de Objetos > 10% & Rareza de Objetos >10%
 ####
