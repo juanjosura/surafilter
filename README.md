@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/97c05521-b803-4b60-b9ba-b9877ee7ef96)<h1> Surafilter v1 - Filtro dinámico para POE2</h1>
+<h1> Surafilter v1 - Filtro dinámico para POE2</h1>
 <p><img src="https://github.com/user-attachments/assets/10f4ef66-a8cc-4f58-805b-d09941de784d"></p>
 <h3>El icono que aparece en las capturas adjuntas es el que saldrá en el mini mapa dentro del juego. Este icono no se mostrará en el nombre del objeto.</h3>
 <p>Este filtro está diseñado para personajes desde el nivel 1 hasta el 99 y se basa en el nivel del área en la que te encuentras para mostrar distintos elementos según corresponda. Ha sido creado utilizando la herramienta FilterBlade de NeverSink.</p>
