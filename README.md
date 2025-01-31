@@ -9,9 +9,9 @@
 <h3>Principales caracteristicas:</h3>
 <ul>
     <li>Los orbes de transmutación, orbes de alteración y esquirlas de orbe regio, dejaran de salir en zonas nivel 80.</li>
+    <li>A partir de mapas T1 dejarán de aparecer: runas que no se usan, pergaminos de identificación.</li>
 </ul>
 
-<p>El icono que aparece en las capturas adjuntas es el que saldrá en el mini mapa dentro del juego. Este icono no se mostrará en el nombre del objeto.</p>
 </br>
     <div class="indice">
         <h2>Índice</h2>
@@ -46,6 +46,7 @@
 <p><img src="https://github.com/user-attachments/assets/a773fbfc-252a-4fb3-8073-27cd5cccf8ee"></p>
 </br>
  <h2 id="niveles-de-valor-standard">Niveles de valor standard</h2>
+<h3>El icono que aparece en las capturas adjuntas es el que saldrá en el mini mapa dentro del juego. Este icono no se mostrará en el nombre del objeto.</h3>
 <p>Estos niveles engloban objetos monetarios normales y de mecánica como las instilaciones, los catalizadores, augurios, esencias, núcleos del alma...</p>
 <p><img src="https://github.com/user-attachments/assets/087f6180-febb-48a5-a895-41adf28eb388"></p>
 <p><img src="https://github.com/user-attachments/assets/b0a1e4a9-69f0-464a-9e14-709d8674b899"></p>
@@ -73,7 +74,9 @@
 <p>Los artefactos de expedición, las astillas de fisura, los fragmentos de simulacro.</p>
 <p><img src="https://github.com/user-attachments/assets/f9d1c524-e9b2-4a3f-92cf-eb62f84196e4"></p>
 <p>En el caso de los fragmentos de simulacro y las astillas de fisura, el color del icono variará según la cantidad de objetos en la pila que caigan. Las categorías son: 1, 2, 5, 10 y 25 objetos.</p>
-<p><img src="https://github.com/user-attachments/assets/ec72527d-3660-4ed0-b49c-c9d5ac31a9f9"></p>
+<p><img src="https://github.com/user-attachments/assets/b95b18c2-763f-42eb-8053-8908682a31b6"></p>
+<p><img src="https://github.com/user-attachments/assets/378e8c6a-3792-42ac-af2e-2e30d00e0f4a"></p>
+
 </br>
 <h2 id="runas-engarzables">Runas engarzables</h2>
 <p><img src="https://github.com/user-attachments/assets/7935ef6b-fdce-484b-83f3-3710d0ab8c45"></p>
