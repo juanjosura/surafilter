@@ -166,21 +166,19 @@
 <p>La joyería y los cinturones siempre tienen un icono en el minimapa y siguen el mismo patrón para descarlos si son levl82+ o t1.</p>
 <p><img src="https://github.com/user-attachments/assets/f8865372-69a7-4469-abd0-4d66cc730f46"></p>
 
-
 <h2 id="objetos-normales-y-magicos">Objetos normales y mágicos</h2>
 <p>Las bases que se pueden vender porque se usan para crafting estan resaltadas y agrupadas en tiers de valor orientativos.</p>
 <p><img src="https://github.com/user-attachments/assets/cf61145b-b378-4a79-bcd7-9950c51a690f"></p>
 
 <h3>Viales</h3>
-<p>Estos son los comunmente considerados como útiles:</p>
+<p>Estos son los comúnmente considerados como útiles:</p>
 <p><img src="https://github.com/user-attachments/assets/3ddf6d93-f1b8-4a70-8781-c38bf2ec8874"></p>
 <p>En campaña se ven todos los tipos, siendo los útiles destacados con un borde.</p>
 <p>En mapas, solo se muestran los objetos útiles, destacando aquellos que tienen calidad o si son de nivel 83.</p>
 
 <h3>Objetos rompibles por objetos de calidad:</h3>
-<p>En mapas 14 y 15 no saldran y en el resto de mapas, solo saldrán los objetos que se puedan romper y que den al menos 2 ítems de calidad.</p>
+<p>Dejaran de aparecer los grandes en mapas T13 y todos en mapas T14+. y en el resto de mapas, solo saldrán los objetos que se puedan romper y que den al menos 2 ítems de calidad.</p>
 <p><img src="https://github.com/user-attachments/assets/dd74089d-4fe3-4c8a-9c67-559b603103e9"></p>
-![image]()
 
 <h3>Objetos usados para Orbes de azar</h3>
 <p>Estos objetos se pueden usar para aplicarles un orbe de azar y esperar a ver si salen como un super único, o incluso se pueden vender.</p>
