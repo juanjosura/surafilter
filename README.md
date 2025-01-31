@@ -143,7 +143,9 @@
 <p>Cuando llegues a mapas, dejarás de ver las llaves de Tier 3, y cuando hagas mapas T14 o más, ya no te caerán las llaves de Tier 2.</p>
 <h2 id="tabletas-de-atlas">Tabletas de atlas</h2>
 <p>El filtro diferencia y resalta las tablillas de mecánica con otro sonido y color, destacando las tablillas de ritual por su valor en el mercado, por encima de los 50 o 60 orbes exaltados</p>
-<p><img src="https://github.com/user-attachments/assets/377e4dd9-c829-4533-857a-acf3b82ae09e"></p>
+<p><img src="https://github.com/user-attachments/assets/394097c7-4482-4ccc-8491-6de49dbae170"></p>
+
+
 </br>
 <h2 id="objetos-unicos">Objetos únicos</h2>
 <p>El filtro no puede identificar el objeto ni su valor exacto. Lo que sí puede hacer es determinar la base del objeto y compararla con los objetos únicos que comparten esa base. En algunos casos, solo existe un objeto único con esa base, por lo que se puede identificar fácilmente, mientras que en otros casos, esa base puede corresponder a varios objetos únicos.</p>
@@ -173,33 +175,29 @@
 <p>Estos son los comunmente considerados como útiles:</p>
 <p><img src="https://github.com/user-attachments/assets/3ddf6d93-f1b8-4a70-8781-c38bf2ec8874"></p>
 <p>En campaña se ven todos los tipos, siendo los útiles destacados con un borde.</p>
-<p><img src="https://github.com/user-attachments/assets/88719adb-451c-4340-971a-596e9c78ad4d"></p>
-<p>En mapas, solo se muestran los objetos útiles, destacando con un icono y rayo aquellos que tienen calidad, o si la calidad es 18 o más, o si son de nivel 83.</p>
-<p><img src="https://github.com/user-attachments/assets/71e7dd6a-c5d1-4f53-994d-63e50b8cb72f"></p>
+<p>En mapas, solo se muestran los objetos útiles, destacando aquellos que tienen calidad o si son de nivel 83.</p>
 
 <h3>Objetos rompibles por objetos de calidad:</h3>
-<p>En mapas 14 y 15 no saldran y en el resto de mapas, solo saldrán los objetos que se puedan romper y que den al menos 2 ítems de calidad en armas y armaduras, o 1 ítem de calidad en frascos.</p>
-<p><img src="https://github.com/user-attachments/assets/402af388-81b3-42ec-a4ba-ba40aedd16cd"></p>
-<p><img src="https://github.com/user-attachments/assets/31f9198c-34f4-4b77-8134-1cc7d414dba8"></p>
+<p>En mapas 14 y 15 no saldran y en el resto de mapas, solo saldrán los objetos que se puedan romper y que den al menos 2 ítems de calidad.</p>
+<p><img src="https://github.com/user-attachments/assets/dd74089d-4fe3-4c8a-9c67-559b603103e9"></p>
+![image]()
 
 <h3>Objetos usados para Orbes de azar</h3>
 <p>Estos objetos se pueden usar para aplicarles un orbe de azar y esperar a ver si salen como un super único, o incluso se pueden vender.</p>
-<p><img src="https://github.com/user-attachments/assets/271bb760-3c04-4a9b-9a69-e835acd8b77e"></p>
-
+<p><img src="https://github.com/user-attachments/assets/8071c9a0-1e62-4183-b2af-8fba1dd50411"></p>
+<p>El lsitado de objetos actualmente valiosos para esta mecánica es:</p>
+<ul>
+    <li>Amuleto estelar. Se vende caro.</li>
+    <li>Anillo de zafiro. Se vende caro</li>
+    <li>Anillo de esmeralda.</li>
+    <li>Cinturón pesado.</li>
+</ul>
 <h3>Joyeria y cinturones</h3>
-<p>Los objetos blancos saldrán destacados con un borde marrón y rayo si son de nivel 82 y tier 1.</p>
-<p><img src="https://github.com/user-attachments/assets/f60779bf-e9c0-4a94-a0e4-0c654afb7bf9"></p>
-<p>Solo saldrán joyería y cinturones blancos si son objetos de tier 1.</p>
-<p><img src="https://github.com/user-attachments/assets/88e77cd1-0c9d-45a1-8623-59be41ffe96d"></p>
-<p>Los anillos de brecha saldrán con su propio estilo, destacando los de nivel 82 con un borde.</p>
-<p><img src="https://github.com/user-attachments/assets/2a7c2d6d-95c2-48d7-9080-1f83813bf1a1"></p>
+<p>Los objetos saldrán destacados con un borde si son de nivel 82.</p>
+<p><img src="https://github.com/user-attachments/assets/06a70e52-a70e-4e26-8063-9b4c72c74a37"></p>
 
-<h3>Armas y armaduras</h3>
-<p>En mapas, solo saldrán objetos blancos de tier 1 o de tier 2 si son de nivel 82.</p>
-<p>Los objetos de nivel 82 se destacan con un borde y un rayo, que además será naranja si es de tier 1.</p>
-<p><img src="https://github.com/user-attachments/assets/b7b006e7-0bc9-42c9-8f78-9bf49ae03f13"></p>
-<p>Se han escondido manualmente las bases de los objetos tier 1 que no se pueden vender o solo valen 1 ex. Esta lista va creciendo y evolucionando con el tiempo y puede contener errores, pero en ningún caso estos errores te llevarán a la ruina.</p>
-<p><img src="https://github.com/user-attachments/assets/0ad816ee-84c6-4727-a8c2-61084d1c6043"></p>
+<p>Los anillos de brecha saldrán con su propio estilo, destacando los de nivel 82 blancos por ser vendibles.</p>
+<p><img src="https://github.com/user-attachments/assets/c329699f-825e-46b4-bf34-0c854f53ea31"></p>
 
 </br>
 <h2 id="busqueda">Filtros de busqueda</h2>
