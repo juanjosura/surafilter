@@ -187,8 +187,21 @@
 <p>Se han escondido manualmente las bases de los objetos tier 1 que no se pueden vender o solo valen 1 ex. Esta lista va creciendo y evolucionando con el tiempo y puede contener errores, pero en ningún caso estos errores te llevarán a la ruina.</p>
 <p><img src="https://github.com/user-attachments/assets/0ad816ee-84c6-4727-a8c2-61084d1c6043"></p>
 
+</br>
+<h2 id="busqueda">Filtros de busqueda</h2>
+##
+<tab><tab>
+Piedras guía de mas de 300:
+\+([3-9]\d{2,}|[1-9]\d{3,})%
 
+Piedras guía de mas de 400:
+\+([4-9]\d{2,}|[1-9]\d{3,})%
 
+Piedras guía de mas de 500:
+\+([5-9]\d{2,}|[1-9]\d{3,})%
+
+Piedras guía de mas de 600:
+\+([6-9]\d{2,}|[1-9]\d{3,})%
 
 
 
