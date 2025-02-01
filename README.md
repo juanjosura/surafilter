@@ -1,5 +1,5 @@
 <h1> Surafilter v1 - Filtro dinámico para POE2</h1>
-<p><img src="https://github.com/user-attachments/assets/10f4ef66-a8cc-4f58-805b-d09941de784d"></p>
+<p><img src="https://github.com/user-attachments/assets/0d9c49af-a299-4b5d-a009-b5de5c4a7c20"></p>
 <h3>El icono que aparece en las capturas adjuntas es el que saldrá en el mini mapa dentro del juego. Este icono no se mostrará en el nombre del objeto.</h3>
 <p>Este filtro está diseñado para personajes desde el nivel 1 hasta el 99 y se basa en el nivel del área en la que te encuentras para mostrar distintos elementos según corresponda. 
 <p>El objetivo del filtro es que, mediante el color, el sonido o el efecto visual, puedas identificar de forma intuitiva si un objeto es útil o valioso.</p>
@@ -19,7 +19,6 @@
     <li>Objetos raros de nivel alto destacados.</li>
     <li>Bases  de crafteo vendibles destacadas y agrupadas en tiers de valor orientativos.</li>
 </ul>
-
 </br>
     <div class="indice">
         <h2>Índice</h2>
