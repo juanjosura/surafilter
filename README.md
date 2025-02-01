@@ -69,8 +69,11 @@
 </br>
 <h2 id="objetos-monetarios-personalizados">Objetos monetarios personalizados</h2>
 <p>Estos objetos tienen su propio color y sonido cuando caen. Usan las voces del juego para darle mas sensación de que es parte del juego. Además, tienen diferentes tamaños en el suelo según su valor.<p>
+<p><img src="https://github.com/user-attachments/assets/0b9a97e4-cc52-4131-aa3e-e9e2e31cea90"></p>
 <p><img src="https://github.com/user-attachments/assets/b37bb189-8233-44fa-8887-7ecbca97b013"></p>
-<p><img src="https://github.com/user-attachments/assets/ef28b66b-b5ef-48ba-a144-d63f16ea144e"></p>
+
+
+
 <h2 id="objetos-monetarios-calidad">Objetos monetarios de calidad y huecos</h2>
 <p>Estos son los objetos que se usan para darle calidad a un arma o armadura o hacerle huecos. Se pueden obtener esquirlkas de estos objetos en la mesa de reciclaje.</p>
 <p><img src="https://github.com/user-attachments/assets/b903e11c-d62b-447f-85c1-8dae713bfe80"></p>
